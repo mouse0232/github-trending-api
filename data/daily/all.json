@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 08 Sep 2026 16:54:22 GMT",
+  "pubDate": "Tue, 08 Sep 2026 21:32:12 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,8 +10,8 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,097",
-      "forks": "1,807",
+      "stars": "29,996",
+      "forks": "1,840",
       "addStars": "422",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "34,245",
-      "forks": "2,182",
+      "stars": "34,592",
+      "forks": "2,194",
       "addStars": "1,020",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,396",
-      "forks": "1,771",
+      "stars": "26,461",
+      "forks": "1,775",
       "addStars": "490",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "253,948",
-      "forks": "38,080",
+      "stars": "254,184",
+      "forks": "38,112",
       "addStars": "1,426",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "47,527",
-      "forks": "4,381",
+      "stars": "47,670",
+      "forks": "4,389",
       "addStars": "2,628",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "48,639",
-      "forks": "7,482",
+      "stars": "48,739",
+      "forks": "7,492",
       "addStars": "666",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "283,201",
-      "forks": "25,377",
+      "stars": "283,303",
+      "forks": "25,384",
       "addStars": "446",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "211,270",
-      "forks": "21,459",
+      "stars": "211,388",
+      "forks": "21,469",
       "addStars": "325",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "181,464",
-      "forks": "13,331",
+      "stars": "181,598",
+      "forks": "13,342",
       "addStars": "2,045",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,320",
-      "forks": "1,042",
+      "stars": "10,420",
+      "forks": "1,048",
       "addStars": "872",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,123",
-      "forks": "9,040",
+      "stars": "10,140",
+      "forks": "9,044",
       "addStars": "505",
       "contributors": [
         {
@@ -407,8 +407,8 @@
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "113,260",
-      "forks": "12,480",
+      "stars": "113,413",
+      "forks": "12,485",
       "addStars": "320",
       "contributors": [
         {
@@ -444,8 +444,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,293",
-      "forks": "1,542",
+      "stars": "21,352",
+      "forks": "1,543",
       "addStars": "652",
       "contributors": [
         {
@@ -476,8 +476,8 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,584",
-      "forks": "835",
+      "stars": "5,661",
+      "forks": "836",
       "addStars": "494",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,290",
-      "forks": "794",
+      "stars": "11,341",
+      "forks": "795",
       "addStars": "173",
       "contributors": [
         {
@@ -530,8 +530,8 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,659",
-      "forks": "800",
+      "stars": "5,736",
+      "forks": "805",
       "addStars": "176",
       "contributors": [
         {
