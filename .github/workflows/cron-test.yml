@@ -1,4 +1,5 @@
 name: cron-test
+
 on:
   workflow_dispatch:
   schedule:
@@ -8,5 +9,5 @@ jobs:
   hello:
     runs-on: ubuntu-latest
     steps:
-      - name: print cron trigger time
-        run: echo "cron triggered, UTC time: $(date -u)"
+      - run: echo "cron triggered, UTC time: $(date -u)"
+
