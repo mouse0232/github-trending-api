@@ -1,0 +1,591 @@
+{
+  "title": "GitHub Shell Languages Weekly Trending",
+  "description": "Weekly Trending of Shell Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "items": [
+    {
+      "title": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "31,762",
+      "forks": "3,225",
+      "addStars": "4,601",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+          "name": "dhh",
+          "url": "https://github.com/dhh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+          "name": "ryanrhughes",
+          "url": "https://github.com/ryanrhughes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/317366263?s=40&v=4",
+          "name": "omarchybot",
+          "url": "https://github.com/omarchybot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
+          "name": "tahayvr",
+          "url": "https://github.com/tahayvr"
+        }
+      ]
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "277,883",
+      "forks": "24,870",
+      "addStars": "4,249",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+          "name": "obra",
+          "url": "https://github.com/obra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+          "name": "arittr",
+          "url": "https://github.com/arittr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+          "name": "clkao",
+          "url": "https://github.com/clkao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
+          "name": "jjshanks",
+          "url": "https://github.com/jjshanks"
+        }
+      ]
+    },
+    {
+      "title": "rawfilejson/awesome-osint-arsenal",
+      "url": "https://github.com/rawfilejson/awesome-osint-arsenal",
+      "description": "OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "2,518",
+      "forks": "383",
+      "addStars": "659",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68239032?s=40&v=4",
+          "name": "rawfilejson",
+          "url": "https://github.com/rawfilejson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/546889?s=40&v=4",
+          "name": "adw0rd",
+          "url": "https://github.com/adw0rd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8755484?s=40&v=4",
+          "name": "kriptoburak",
+          "url": "https://github.com/kriptoburak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139590059?s=40&v=4",
+          "name": "Salzling",
+          "url": "https://github.com/Salzling"
+        }
+      ]
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "237,562",
+      "forks": "20,216",
+      "addStars": "15,566",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+          "name": "mattpocock",
+          "url": "https://github.com/mattpocock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4",
+          "name": "gabimoncha",
+          "url": "https://github.com/gabimoncha"
+        }
+      ]
+    },
+    {
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "24,556",
+      "forks": "3,509",
+      "addStars": "429",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&v=4",
+          "name": "Donchitos",
+          "url": "https://github.com/Donchitos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "7,365",
+      "forks": "820",
+      "addStars": "521",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3911167?s=40&v=4",
+          "name": "SimoneAvogadro",
+          "url": "https://github.com/SimoneAvogadro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2962633?s=40&v=4",
+          "name": "tajchert",
+          "url": "https://github.com/tajchert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7654380?s=40&v=4",
+          "name": "philjn",
+          "url": "https://github.com/philjn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34884830?s=40&v=4",
+          "name": "txhno",
+          "url": "https://github.com/txhno"
+        }
+      ]
+    },
+    {
+      "title": "armbian/build",
+      "url": "https://github.com/armbian/build",
+      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "5,377",
+      "forks": "3,108",
+      "addStars": "23",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6281704?s=40&v=4",
+          "name": "igorpecovnik",
+          "url": "https://github.com/igorpecovnik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/639959?s=40&v=4",
+          "name": "rpardini",
+          "url": "https://github.com/rpardini"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14262690?s=40&v=4",
+          "name": "zador-blood-stained",
+          "url": "https://github.com/zador-blood-stained"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3305006?s=40&v=4",
+          "name": "EvilOlaf",
+          "url": "https://github.com/EvilOlaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9724344?s=40&v=4",
+          "name": "martinayotte",
+          "url": "https://github.com/martinayotte"
+        }
+      ]
+    },
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "53,025",
+      "forks": "4,673",
+      "addStars": "140",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5763256?s=40&v=4",
+          "name": "kroese",
+          "url": "https://github.com/kroese"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46193371?s=40&v=4",
+          "name": "hellodword",
+          "url": "https://github.com/hellodword"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/557021?s=40&v=4",
+          "name": "star3am",
+          "url": "https://github.com/star3am"
+        }
+      ]
+    },
+    {
+      "title": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "4,156",
+      "forks": "78",
+      "addStars": "163",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93952610?s=40&v=4",
+          "name": "0xNyk",
+          "url": "https://github.com/0xNyk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
+          "name": "thejesh23",
+          "url": "https://github.com/thejesh23"
+        }
+      ]
+    },
+    {
+      "title": "llm-d/llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "4,162",
+      "forks": "706",
+      "addStars": "103",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19876404?s=40&v=4",
+          "name": "Gregory-Pereira",
+          "url": "https://github.com/Gregory-Pereira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40361897?s=40&v=4",
+          "name": "ahg-g",
+          "url": "https://github.com/ahg-g"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6598801?s=40&v=4",
+          "name": "lionelvillard",
+          "url": "https://github.com/lionelvillard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6902282?s=40&v=4",
+          "name": "liu-cong",
+          "url": "https://github.com/liu-cong"
+        }
+      ]
+    },
+    {
+      "title": "community-scripts/ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "29,398",
+      "forks": "2,848",
+      "addStars": "96",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21342670?s=40&v=4",
+          "name": "tteck",
+          "url": "https://github.com/tteck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47820557?s=40&v=4",
+          "name": "MickLesk",
+          "url": "https://github.com/MickLesk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58952836?s=40&v=4",
+          "name": "tremor021",
+          "url": "https://github.com/tremor021"
+        }
+      ]
+    },
+    {
+      "title": "VSCodium/vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "32,987",
+      "forks": "1,853",
+      "addStars": "132",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/587742?s=40&v=4",
+          "name": "daiyam",
+          "url": "https://github.com/daiyam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2707340?s=40&v=4",
+          "name": "stripedpajamas",
+          "url": "https://github.com/stripedpajamas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115115137?s=40&v=4",
+          "name": "lex-ibm",
+          "url": "https://github.com/lex-ibm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1550705?s=40&v=4",
+          "name": "paulcarroty",
+          "url": "https://github.com/paulcarroty"
+        }
+      ]
+    },
+    {
+      "title": "assafdori/bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "2,174",
+      "forks": "516",
+      "addStars": "59",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/83507910?s=40&v=4",
+          "name": "assafdori",
+          "url": "https://github.com/assafdori"
+        }
+      ]
+    },
+    {
+      "title": "d3/d3",
+      "url": "https://github.com/d3/d3",
+      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "113,556",
+      "forks": "22,677",
+      "addStars": "92",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/230541?s=40&v=4",
+          "name": "mbostock",
+          "url": "https://github.com/mbostock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31223?s=40&v=4",
+          "name": "jasondavies",
+          "url": "https://github.com/jasondavies"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7001?s=40&v=4",
+          "name": "Fil",
+          "url": "https://github.com/Fil"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1175380?s=40&v=4",
+          "name": "kitmonisit",
+          "url": "https://github.com/kitmonisit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/536984?s=40&v=4",
+          "name": "27359794",
+          "url": "https://github.com/27359794"
+        }
+      ]
+    },
+    {
+      "title": "Dammyjay93/interface-design",
+      "url": "https://github.com/Dammyjay93/interface-design",
+      "description": "Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "5,605",
+      "forks": "365",
+      "addStars": "130",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86404480?s=40&v=4",
+          "name": "Dammyjay93",
+          "url": "https://github.com/Dammyjay93"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "google/adk-docs",
+      "url": "https://github.com/google/adk-docs",
+      "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "1,480",
+      "forks": "1,243",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/303236?s=40&v=4",
+          "name": "koverholt",
+          "url": "https://github.com/koverholt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/931947?s=40&v=4",
+          "name": "joefernandez",
+          "url": "https://github.com/joefernandez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98014943?s=40&v=4",
+          "name": "lavinigam-gcp",
+          "url": "https://github.com/lavinigam-gcp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1623040?s=40&v=4",
+          "name": "kazunori279",
+          "url": "https://github.com/kazunori279"
+        }
+      ]
+    },
+    {
+      "title": "aditya-shri/VPN",
+      "url": "https://github.com/aditya-shri/VPN",
+      "description": "Personal VPN using Shadowsocks and v2ray",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "2,071",
+      "forks": "1,406",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18643014?s=40&v=4",
+          "name": "aditya-shri",
+          "url": "https://github.com/aditya-shri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3524671?s=40&v=4",
+          "name": "Snawoot",
+          "url": "https://github.com/Snawoot"
+        }
+      ]
+    },
+    {
+      "title": "jqssun/android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "2,180",
+      "forks": "85",
+      "addStars": "160",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/195176069?s=40&v=4",
+          "name": "jqssun",
+          "url": "https://github.com/jqssun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99805288?s=40&v=4",
+          "name": "HongyiHank",
+          "url": "https://github.com/HongyiHank"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89766493?s=40&v=4",
+          "name": "xitc",
+          "url": "https://github.com/xitc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/532255?s=40&v=4",
+          "name": "bendavis",
+          "url": "https://github.com/bendavis"
+        }
+      ]
+    },
+    {
+      "title": "kunchenguid/firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "4,147",
+      "forks": "1,379",
+      "addStars": "385",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
+          "name": "kunchenguid",
+          "url": "https://github.com/kunchenguid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101884182?s=40&v=4",
+          "name": "karotkriss",
+          "url": "https://github.com/karotkriss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8601106?s=40&v=4",
+          "name": "Inthuson",
+          "url": "https://github.com/Inthuson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8334081?s=40&v=4",
+          "name": "e-jung",
+          "url": "https://github.com/e-jung"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7937632?s=40&v=4",
+          "name": "korallis",
+          "url": "https://github.com/korallis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "title": "GitHub Python Languages Monthly Trending",
+  "description": "Monthly Trending of Python Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "items": [
+    {
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "24,531",
+      "forks": "1,559",
+      "addStars": "14,431",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+          "name": "ayghri",
+          "url": "https://github.com/ayghri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
+          "name": "thejesh23",
+          "url": "https://github.com/thejesh23"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57289446?s=40&v=4",
+          "name": "commie70",
+          "url": "https://github.com/commie70"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86552437?s=40&v=4",
+          "name": "jabrahamtech",
+          "url": "https://github.com/jabrahamtech"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "9,266",
+      "forks": "596",
+      "addStars": "5,861",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
+          "name": "HenryNdubuaku",
+          "url": "https://github.com/HenryNdubuaku"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
+          "name": "ncylich",
+          "url": "https://github.com/ncylich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52249278?s=40&v=4",
+          "name": "kar-m",
+          "url": "https://github.com/kar-m"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
+          "name": "justinl66",
+          "url": "https://github.com/justinl66"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/154585401?s=40&v=4",
+          "name": "LeonSGP43",
+          "url": "https://github.com/LeonSGP43"
+        }
+      ]
+    },
+    {
+      "title": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "25,770",
+      "forks": "2,665",
+      "addStars": "15,982",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
+          "name": "virgiliojr94",
+          "url": "https://github.com/virgiliojr94"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/183437397?s=40&v=4",
+          "name": "dex0shubham",
+          "url": "https://github.com/dex0shubham"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103170876?s=40&v=4",
+          "name": "Hotragn",
+          "url": "https://github.com/Hotragn"
+        }
+      ]
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "33,483",
+      "forks": "2,549",
+      "addStars": "6,107",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
+          "name": "qin-ctx",
+          "url": "https://github.com/qin-ctx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
+          "name": "ZaynJarvis",
+          "url": "https://github.com/ZaynJarvis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&v=4",
+          "name": "zhoujh01",
+          "url": "https://github.com/zhoujh01"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&v=4",
+          "name": "r266-tech",
+          "url": "https://github.com/r266-tech"
+        }
+      ]
+    },
+    {
+      "title": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "2,059",
+      "forks": "186",
+      "addStars": "1,771",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+          "name": "bryan-anthropic",
+          "url": "https://github.com/bryan-anthropic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+          "name": "tobinsouth",
+          "url": "https://github.com/tobinsouth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/140827?s=40&v=4",
+          "name": "ThariqS",
+          "url": "https://github.com/ThariqS"
+        }
+      ]
+    },
+    {
+      "title": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "14,250",
+      "forks": "1,827",
+      "addStars": "2,448",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
+          "name": "megadose",
+          "url": "https://github.com/megadose"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
+          "name": "Eriys",
+          "url": "https://github.com/Eriys"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85891169?s=40&v=4",
+          "name": "novitae",
+          "url": "https://github.com/novitae"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
+          "name": "mxrch",
+          "url": "https://github.com/mxrch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72035730?s=40&v=4",
+          "name": "byt3loss",
+          "url": "https://github.com/byt3loss"
+        }
+      ]
+    },
+    {
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "470,807",
+      "forks": "51,916",
+      "addStars": "18,906",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
+          "name": "matheusfelipeog",
+          "url": "https://github.com/matheusfelipeog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
+          "name": "davemachado",
+          "url": "https://github.com/davemachado"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
+          "name": "ArindamOSS",
+          "url": "https://github.com/ArindamOSS"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
+          "name": "pawelborkar",
+          "url": "https://github.com/pawelborkar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4",
+          "name": "jbrooksuk",
+          "url": "https://github.com/jbrooksuk"
+        }
+      ]
+    },
+    {
+      "title": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "42,462",
+      "forks": "4,696",
+      "addStars": "22,917",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+          "name": "bojieli",
+          "url": "https://github.com/bojieli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
+          "name": "santhreal",
+          "url": "https://github.com/santhreal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107110503?s=40&v=4",
+          "name": "whanyu1212",
+          "url": "https://github.com/whanyu1212"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
+          "name": "thejesh23",
+          "url": "https://github.com/thejesh23"
+        }
+      ]
+    },
+    {
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "74,833",
+      "forks": "6,774",
+      "addStars": "6,035",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
+          "name": "danielhanchen",
+          "url": "https://github.com/danielhanchen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&v=4",
+          "name": "shimmyshimmer",
+          "url": "https://github.com/shimmyshimmer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/112766706?s=40&v=4",
+          "name": "wasimysaid",
+          "url": "https://github.com/wasimysaid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&v=4",
+          "name": "Datta0",
+          "url": "https://github.com/Datta0"
+        }
+      ]
+    },
+    {
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "58,431",
+      "forks": "6,364",
+      "addStars": "14,275",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+          "name": "0xallam",
+          "url": "https://github.com/0xallam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
+          "name": "bearsyankees",
+          "url": "https://github.com/bearsyankees"
+        }
+      ]
+    },
+    {
+      "title": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "366,146",
+      "forks": "58,063",
+      "addStars": "7,547",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
+          "name": "donnemartin",
+          "url": "https://github.com/donnemartin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&v=4",
+          "name": "cclauss",
+          "url": "https://github.com/cclauss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/171818?s=40&v=4",
+          "name": "satob",
+          "url": "https://github.com/satob"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7440735?s=40&v=4",
+          "name": "fluency03",
+          "url": "https://github.com/fluency03"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/303663?s=40&v=4",
+          "name": "luisbg",
+          "url": "https://github.com/luisbg"
+        }
+      ]
+    },
+    {
+      "title": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "25,167",
+      "forks": "1,962",
+      "addStars": "2,739",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1932513?s=40&v=4",
+          "name": "BeryJu",
+          "url": "https://github.com/BeryJu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18313093?s=40&v=4",
+          "name": "rissson",
+          "url": "https://github.com/rissson"
+        }
+      ]
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "5,967",
+      "forks": "545",
+      "addStars": "1,613",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18695984?s=40&v=4",
+          "name": "boy-hack",
+          "url": "https://github.com/boy-hack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19813635?s=40&v=4",
+          "name": "aigsec",
+          "url": "https://github.com/aigsec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28682217?s=40&v=4",
+          "name": "rocie799",
+          "url": "https://github.com/rocie799"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170615914?s=40&v=4",
+          "name": "zonalalala",
+          "url": "https://github.com/zonalalala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55682544?s=40&v=4",
+          "name": "y3oZ",
+          "url": "https://github.com/y3oZ"
+        }
+      ]
+    },
+    {
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "37,551",
+      "forks": "4,707",
+      "addStars": "8,003",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+          "name": "pancacake",
+          "url": "https://github.com/pancacake"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
+          "name": "Pinkllow",
+          "url": "https://github.com/Pinkllow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&v=4",
+          "name": "tusharkhatriofficial",
+          "url": "https://github.com/tusharkhatriofficial"
+        }
+      ]
+    },
+    {
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "18,704",
+      "forks": "1,502",
+      "addStars": "3,525",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
+          "name": "cloud-ix-copybara",
+          "url": "https://github.com/cloud-ix-copybara"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
+          "name": "holtskinner",
+          "url": "https://github.com/holtskinner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&v=4",
+          "name": "martinvarelaj",
+          "url": "https://github.com/martinvarelaj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&v=4",
+          "name": "wangauone",
+          "url": "https://github.com/wangauone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
+          "name": "helloeve",
+          "url": "https://github.com/helloeve"
+        }
+      ]
+    },
+    {
+      "title": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "38,014",
+      "forks": "3,340",
+      "addStars": "6,998",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
+          "name": "blader",
+          "url": "https://github.com/blader"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/243858445?s=40&v=4",
+          "name": "warp-agent",
+          "url": "https://github.com/warp-agent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37253580?s=40&v=4",
+          "name": "wilu222",
+          "url": "https://github.com/wilu222"
+        }
+      ]
+    },
+    {
+      "title": "SimplifyJobs/Summer2027-Internships",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "46,814",
+      "forks": "3,240",
+      "addStars": "1,438",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/143137531?s=40&v=4",
+          "name": "BigTunaHalpert",
+          "url": "https://github.com/BigTunaHalpert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36709118?s=40&v=4",
+          "name": "Zmwang622",
+          "url": "https://github.com/Zmwang622"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49234552?s=40&v=4",
+          "name": "owini",
+          "url": "https://github.com/owini"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20372363?s=40&v=4",
+          "name": "GintasS",
+          "url": "https://github.com/GintasS"
+        }
+      ]
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "130,084",
+      "forks": "15,326",
+      "addStars": "8,160",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
+          "name": "comfyanonymous",
+          "url": "https://github.com/comfyanonymous"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
+          "name": "bigcat88",
+          "url": "https://github.com/bigcat88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125205205?s=40&v=4",
+          "name": "pythongosssss",
+          "url": "https://github.com/pythongosssss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/192523189?s=40&v=4",
+          "name": "comfyui-wiki",
+          "url": "https://github.com/comfyui-wiki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46076784?s=40&v=4",
+          "name": "rattus128",
+          "url": "https://github.com/rattus128"
+        }
+      ]
+    },
+    {
+      "title": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "92,069",
+      "forks": "7,586",
+      "addStars": "3,302",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11601040?s=40&v=4",
+          "name": "3b1b",
+          "url": "https://github.com/3b1b"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44120331?s=40&v=4",
+          "name": "TonyCrane",
+          "url": "https://github.com/TonyCrane"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13440601?s=40&v=4",
+          "name": "bhbr",
+          "url": "https://github.com/bhbr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50232075?s=40&v=4",
+          "name": "YishiMichael",
+          "url": "https://github.com/YishiMichael"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43117506?s=40&v=4",
+          "name": "eulertour",
+          "url": "https://github.com/eulertour"
+        }
+      ]
+    }
+  ]
+}

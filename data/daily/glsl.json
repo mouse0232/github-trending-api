@@ -1,0 +1,131 @@
+{
+  "title": "GitHub Glsl Languages Daily Trending",
+  "description": "Daily Trending of Glsl Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "items": [
+    {
+      "title": "KhronosGroup/SPIRV-Cross",
+      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
+      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "2,492",
+      "forks": "701",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17786731?s=40&v=4",
+          "name": "HansKristian-Work",
+          "url": "https://github.com/HansKristian-Work"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/356402?s=40&v=4",
+          "name": "billhollings",
+          "url": "https://github.com/billhollings"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42747760?s=40&v=4",
+          "name": "cdavis5e",
+          "url": "https://github.com/cdavis5e"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/379761?s=40&v=4",
+          "name": "RobDangerous",
+          "url": "https://github.com/RobDangerous"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/194842?s=40&v=4",
+          "name": "rdb",
+          "url": "https://github.com/rdb"
+        }
+      ]
+    },
+    {
+      "title": "bambosan/mirai",
+      "url": "https://github.com/bambosan/mirai",
+      "description": "A Vibrant Visual Shader for MCBE",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "56",
+      "forks": "10",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63803423?s=40&v=4",
+          "name": "bambosan",
+          "url": "https://github.com/bambosan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179576032?s=40&v=4",
+          "name": "jcau8",
+          "url": "https://github.com/jcau8"
+        }
+      ]
+    },
+    {
+      "title": "cizia64/CrossMix-OS",
+      "url": "https://github.com/cizia64/CrossMix-OS",
+      "description": "Enhanced OS for the TrimUI Smart Pro",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "983",
+      "forks": "92",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170717619?s=40&v=4",
+          "name": "cizia64",
+          "url": "https://github.com/cizia64"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13476270?s=40&v=4",
+          "name": "Nevrdid",
+          "url": "https://github.com/Nevrdid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65132371?s=40&v=4",
+          "name": "cobaltgit",
+          "url": "https://github.com/cobaltgit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/637273?s=40&v=4",
+          "name": "welblade",
+          "url": "https://github.com/welblade"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23296974?s=40&v=4",
+          "name": "mut2nt",
+          "url": "https://github.com/mut2nt"
+        }
+      ]
+    },
+    {
+      "title": "ComplementaryDevelopment/ComplementaryReimagined",
+      "url": "https://github.com/ComplementaryDevelopment/ComplementaryReimagined",
+      "description": "Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "347",
+      "forks": "110",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52270338?s=40&v=4",
+          "name": "EminGT",
+          "url": "https://github.com/EminGT"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46494907?s=40&v=4",
+          "name": "SpacEagle17",
+          "url": "https://github.com/SpacEagle17"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74540871?s=40&v=4",
+          "name": "Riyuukii",
+          "url": "https://github.com/Riyuukii"
+        }
+      ]
+    }
+  ]
+}

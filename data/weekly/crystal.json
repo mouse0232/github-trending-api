@@ -1,0 +1,45 @@
+{
+  "title": "GitHub Crystal Languages Weekly Trending",
+  "description": "Weekly Trending of Crystal Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "items": [
+    {
+      "title": "crystal-lang/crystal",
+      "url": "https://github.com/crystal-lang/crystal",
+      "description": "The Crystal Programming Language",
+      "language": "Crystal",
+      "languageColor": "#000100",
+      "stars": "20,386",
+      "forks": "1,694",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/466378?s=40&v=4",
+          "name": "straight-shoota",
+          "url": "https://github.com/straight-shoota"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1361918?s=40&v=4",
+          "name": "HertzDevil",
+          "url": "https://github.com/HertzDevil"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/209371?s=40&v=4",
+          "name": "asterite",
+          "url": "https://github.com/asterite"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22697?s=40&v=4",
+          "name": "waj",
+          "url": "https://github.com/waj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47380?s=40&v=4",
+          "name": "ysbaddaden",
+          "url": "https://github.com/ysbaddaden"
+        }
+      ]
+    }
+  ]
+}

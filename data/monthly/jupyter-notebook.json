@@ -1,0 +1,735 @@
+{
+  "title": "GitHub Jupyter-notebook Languages Monthly Trending",
+  "description": "Monthly Trending of Jupyter-notebook Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "items": [
+    {
+      "title": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "67,097",
+      "forks": "12,946",
+      "addStars": "14,291",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+          "name": "jlooper",
+          "url": "https://github.com/jlooper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
+          "name": "shwars",
+          "url": "https://github.com/shwars"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&v=4",
+          "name": "BethanyJep",
+          "url": "https://github.com/BethanyJep"
+        }
+      ]
+    },
+    {
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "32,553",
+      "forks": "3,446",
+      "addStars": "8,631",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+          "name": "lyogavin",
+          "url": "https://github.com/lyogavin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&v=4",
+          "name": "NavodPeiris",
+          "url": "https://github.com/NavodPeiris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "118,581",
+      "forks": "62,524",
+      "addStars": "5,351",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
+          "name": "koreyspace",
+          "url": "https://github.com/koreyspace"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64026625?s=40&v=4",
+          "name": "john0isaac",
+          "url": "https://github.com/john0isaac"
+        }
+      ]
+    },
+    {
+      "title": "DataExpert-io/data-engineer-handbook",
+      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "43,867",
+      "forks": "9,254",
+      "addStars": "1,588",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4583288?s=40&v=4",
+          "name": "EcZachly",
+          "url": "https://github.com/EcZachly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72290009?s=40&v=4",
+          "name": "ry-v1",
+          "url": "https://github.com/ry-v1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188408630?s=40&v=4",
+          "name": "isangwanrahul",
+          "url": "https://github.com/isangwanrahul"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57084343?s=40&v=4",
+          "name": "evil-in",
+          "url": "https://github.com/evil-in"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6037277?s=40&v=4",
+          "name": "damaradiprabowo",
+          "url": "https://github.com/damaradiprabowo"
+        }
+      ]
+    },
+    {
+      "title": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "50,249",
+      "forks": "6,026",
+      "addStars": "5,029",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59903352?s=40&v=4",
+          "name": "Lordog",
+          "url": "https://github.com/Lordog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7037265?s=40&v=4",
+          "name": "cooelf",
+          "url": "https://github.com/cooelf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33388552?s=40&v=4",
+          "name": "zwhe99",
+          "url": "https://github.com/zwhe99"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45898026?s=40&v=4",
+          "name": "dongdongzhaoUP",
+          "url": "https://github.com/dongdongzhaoUP"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18722770?s=40&v=4",
+          "name": "scofield7419",
+          "url": "https://github.com/scofield7419"
+        }
+      ]
+    },
+    {
+      "title": "alirezadir/AIMLInterviews",
+      "url": "https://github.com/alirezadir/AIMLInterviews",
+      "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "9,473",
+      "forks": "1,668",
+      "addStars": "859",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5262877?s=40&v=4",
+          "name": "alirezadir",
+          "url": "https://github.com/alirezadir"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49838289?s=40&v=4",
+          "name": "mehdizade",
+          "url": "https://github.com/mehdizade"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1131461?s=40&v=4",
+          "name": "jacobsimon",
+          "url": "https://github.com/jacobsimon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4899432?s=40&v=4",
+          "name": "erjanmx",
+          "url": "https://github.com/erjanmx"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "18 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "73,257",
+      "forks": "24,226",
+      "addStars": "3,075",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
+          "name": "koreyspace",
+          "url": "https://github.com/koreyspace"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
+          "name": "hyoshioka0128",
+          "url": "https://github.com/hyoshioka0128"
+        }
+      ]
+    },
+    {
+      "title": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "17,148",
+      "forks": "2,507",
+      "addStars": "531",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11997567?s=40&v=4",
+          "name": "chiphuyen",
+          "url": "https://github.com/chiphuyen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19699016?s=40&v=4",
+          "name": "chris-alexiuk",
+          "url": "https://github.com/chris-alexiuk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145115?s=40&v=4",
+          "name": "dr3s",
+          "url": "https://github.com/dr3s"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3348134?s=40&v=4",
+          "name": "strickvl",
+          "url": "https://github.com/strickvl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4",
+          "name": "sjhddh",
+          "url": "https://github.com/sjhddh"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "89,816",
+      "forks": "22,088",
+      "addStars": "1,381",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+          "name": "jlooper",
+          "url": "https://github.com/jlooper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3022824?s=40&v=4",
+          "name": "hereje",
+          "url": "https://github.com/hereje"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55969597?s=40&v=4",
+          "name": "Vidushi-Gupta",
+          "url": "https://github.com/Vidushi-Gupta"
+        }
+      ]
+    },
+    {
+      "title": "Infrasys-AI/AISystem",
+      "url": "https://github.com/Infrasys-AI/AISystem",
+      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "17,666",
+      "forks": "2,468",
+      "addStars": "404",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6355024?s=40&v=4",
+          "name": "chenzomi12",
+          "url": "https://github.com/chenzomi12"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19512601?s=40&v=4",
+          "name": "engin-work",
+          "url": "https://github.com/engin-work"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43023492?s=40&v=4",
+          "name": "XcodeHw",
+          "url": "https://github.com/XcodeHw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51015745?s=40&v=4",
+          "name": "sfs999",
+          "url": "https://github.com/sfs999"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103377433?s=40&v=4",
+          "name": "DEGger21",
+          "url": "https://github.com/DEGger21"
+        }
+      ]
+    },
+    {
+      "title": "jackfrued/Python-100-Days",
+      "url": "https://github.com/jackfrued/Python-100-Days",
+      "description": "Python - 100天从新手到大师",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "185,634",
+      "forks": "55,707",
+      "addStars": "1,404",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7474657?s=40&v=4",
+          "name": "jackfrued",
+          "url": "https://github.com/jackfrued"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13017944?s=40&v=4",
+          "name": "MathDance",
+          "url": "https://github.com/MathDance"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10865729?s=40&v=4",
+          "name": "geekya215",
+          "url": "https://github.com/geekya215"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/599268?s=40&v=4",
+          "name": "jankeromnes",
+          "url": "https://github.com/jankeromnes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2331406?s=40&v=4",
+          "name": "royaso",
+          "url": "https://github.com/royaso"
+        }
+      ]
+    },
+    {
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "20,656",
+      "forks": "5,564",
+      "addStars": "592",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4275885?s=40&v=4",
+          "name": "stefan-jansen",
+          "url": "https://github.com/stefan-jansen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38852608?s=40&v=4",
+          "name": "minggnim",
+          "url": "https://github.com/minggnim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7924802?s=40&v=4",
+          "name": "shlomiku",
+          "url": "https://github.com/shlomiku"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15233913?s=40&v=4",
+          "name": "KarlosQ",
+          "url": "https://github.com/KarlosQ"
+        }
+      ]
+    },
+    {
+      "title": "CompVis/stable-diffusion",
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "description": "A latent text-to-image diffusion model",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "73,346",
+      "forks": "10,577",
+      "addStars": "225",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38811725?s=40&v=4",
+          "name": "rromb",
+          "url": "https://github.com/rromb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2175508?s=40&v=4",
+          "name": "pesser",
+          "url": "https://github.com/pesser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23423619?s=40&v=4",
+          "name": "patrickvonplaten",
+          "url": "https://github.com/patrickvonplaten"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26577641?s=40&v=4",
+          "name": "ablattmann",
+          "url": "https://github.com/ablattmann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25171708?s=40&v=4",
+          "name": "LuChengTHU",
+          "url": "https://github.com/LuChengTHU"
+        }
+      ]
+    },
+    {
+      "title": "ArcInstitute/evo2",
+      "url": "https://github.com/ArcInstitute/evo2",
+      "description": "Genome modeling and design across all domains of life",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "4,155",
+      "forks": "548",
+      "addStars": "159",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38367003?s=40&v=4",
+          "name": "garykbrixi",
+          "url": "https://github.com/garykbrixi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32276711?s=40&v=4",
+          "name": "ggsun",
+          "url": "https://github.com/ggsun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46955090?s=40&v=4",
+          "name": "samhkin",
+          "url": "https://github.com/samhkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6365340?s=40&v=4",
+          "name": "brianhie",
+          "url": "https://github.com/brianhie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11463041?s=40&v=4",
+          "name": "jonschmok",
+          "url": "https://github.com/jonschmok"
+        }
+      ]
+    },
+    {
+      "title": "ed-donner/llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "description": "Repo to accompany my mastering LLM engineering course",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "7,156",
+      "forks": "6,998",
+      "addStars": "328",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96339824?s=40&v=4",
+          "name": "ed-donner",
+          "url": "https://github.com/ed-donner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11004487?s=40&v=4",
+          "name": "thomasjuma",
+          "url": "https://github.com/thomasjuma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26691123?s=40&v=4",
+          "name": "JOSEPHOMOTOSHO",
+          "url": "https://github.com/JOSEPHOMOTOSHO"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55056375?s=40&v=4",
+          "name": "Vagz1216",
+          "url": "https://github.com/Vagz1216"
+        }
+      ]
+    },
+    {
+      "title": "shsarv/Machine-Learning-Projects",
+      "url": "https://github.com/shsarv/Machine-Learning-Projects",
+      "description": "This repository showcases a selection of machine learning projects undertaken to understand and master various ML concepts. Each project reflects commitment to applying theoretical knowledge to practical scenarios, demonstrating proficiency in machine learning techniques and tools.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "1,833",
+      "forks": "578",
+      "addStars": "156",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55739302?s=40&v=4",
+          "name": "shsarv",
+          "url": "https://github.com/shsarv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166940544?s=40&v=4",
+          "name": "shsarv4",
+          "url": "https://github.com/shsarv4"
+        }
+      ]
+    },
+    {
+      "title": "ageron/handson-mlp",
+      "url": "https://github.com/ageron/handson-mlp",
+      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Face libraries.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "1,913",
+      "forks": "607",
+      "addStars": "163",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76661?s=40&v=4",
+          "name": "ageron",
+          "url": "https://github.com/ageron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199033981?s=40&v=4",
+          "name": "ShindeShivam",
+          "url": "https://github.com/ShindeShivam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10298716?s=40&v=4",
+          "name": "fbourgey",
+          "url": "https://github.com/fbourgey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/429263?s=40&v=4",
+          "name": "sateeshkumarb",
+          "url": "https://github.com/sateeshkumarb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21989248?s=40&v=4",
+          "name": "hahampis",
+          "url": "https://github.com/hahampis"
+        }
+      ]
+    },
+    {
+      "title": "charliedream1/ai_quant_trade",
+      "url": "https://github.com/charliedream1/ai_quant_trade",
+      "description": "股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "6,373",
+      "forks": "1,199",
+      "addStars": "387",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15007828?s=40&v=4",
+          "name": "charliedream1",
+          "url": "https://github.com/charliedream1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/272135137?s=40&v=4",
+          "name": "traeagent",
+          "url": "https://github.com/traeagent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128672421?s=40&v=4",
+          "name": "wangdaoer",
+          "url": "https://github.com/wangdaoer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20527528?s=40&v=4",
+          "name": "InnovationLou",
+          "url": "https://github.com/InnovationLou"
+        }
+      ]
+    },
+    {
+      "title": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "75,560",
+      "forks": "12,772",
+      "addStars": "792",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95656834?s=40&v=4",
+          "name": "ted-at-openai",
+          "url": "https://github.com/ted-at-openai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8716950?s=40&v=4",
+          "name": "simonpfish",
+          "url": "https://github.com/simonpfish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/119888926?s=40&v=4",
+          "name": "colin-openai",
+          "url": "https://github.com/colin-openai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35577566?s=40&v=4",
+          "name": "logankilpatrick",
+          "url": "https://github.com/logankilpatrick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/174109416?s=40&v=4",
+          "name": "pap-openai",
+          "url": "https://github.com/pap-openai"
+        }
+      ]
+    },
+    {
+      "title": "romanmichaelpaolucci/Quant-Guild-Library",
+      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
+      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "1,404",
+      "forks": "330",
+      "addStars": "114",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17343675?s=40&v=4",
+          "name": "romanmichaelpaolucci",
+          "url": "https://github.com/romanmichaelpaolucci"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        }
+      ]
+    },
+    {
+      "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "28,617",
+      "forks": "6,568",
+      "addStars": "854",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25746895?s=40&v=4",
+          "name": "MaartenGr",
+          "url": "https://github.com/MaartenGr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/148525245?s=40&v=4",
+          "name": "negativenagesh",
+          "url": "https://github.com/negativenagesh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1007956?s=40&v=4",
+          "name": "jalammar",
+          "url": "https://github.com/jalammar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4090894?s=40&v=4",
+          "name": "dkapitan",
+          "url": "https://github.com/dkapitan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6709785?s=40&v=4",
+          "name": "dcarpintero",
+          "url": "https://github.com/dcarpintero"
+        }
+      ]
+    }
+  ]
+}

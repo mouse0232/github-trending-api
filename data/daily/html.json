@@ -1,0 +1,269 @@
+{
+  "title": "GitHub Html Languages Daily Trending",
+  "description": "Daily Trending of Html Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "items": [
+    {
+      "title": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "17,029",
+      "forks": "1,185",
+      "addStars": "1,002",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
+          "name": "sunsunsun-java",
+          "url": "https://github.com/sunsunsun-java"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/123613986?s=40&v=4",
+          "name": "NgoQuocViet2001",
+          "url": "https://github.com/NgoQuocViet2001"
+        }
+      ]
+    },
+    {
+      "title": "MengTo/Skills",
+      "url": "https://github.com/MengTo/Skills",
+      "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "5,450",
+      "forks": "662",
+      "addStars": "132",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1065452?s=40&v=4",
+          "name": "MengTo",
+          "url": "https://github.com/MengTo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "65,159",
+      "forks": "6,486",
+      "addStars": "68",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&v=4",
+          "name": "shanraisshan",
+          "url": "https://github.com/shanraisshan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1303131?s=40&v=4",
+          "name": "neutmute",
+          "url": "https://github.com/neutmute"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/192189596?s=40&v=4",
+          "name": "shayangd",
+          "url": "https://github.com/shayangd"
+        }
+      ]
+    },
+    {
+      "title": "Jakubantalik/transitions.dev",
+      "url": "https://github.com/Jakubantalik/transitions.dev",
+      "description": "Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "3,230",
+      "forks": "136",
+      "addStars": "81",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14873517?s=40&v=4",
+          "name": "Jakubantalik",
+          "url": "https://github.com/Jakubantalik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "huytieu/COG-second-brain",
+      "url": "https://github.com/huytieu/COG-second-brain",
+      "description": "Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "1,038",
+      "forks": "126",
+      "addStars": "83",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10217502?s=40&v=4",
+          "name": "huytieu",
+          "url": "https://github.com/huytieu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/534639?s=40&v=4",
+          "name": "gius",
+          "url": "https://github.com/gius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1847158?s=40&v=4",
+          "name": "russellpierce",
+          "url": "https://github.com/russellpierce"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29139715?s=40&v=4",
+          "name": "losefor",
+          "url": "https://github.com/losefor"
+        }
+      ]
+    },
+    {
+      "title": "vava-nessa/free-coding-models",
+      "url": "https://github.com/vava-nessa/free-coding-models",
+      "description": "Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "2,340",
+      "forks": "257",
+      "addStars": "55",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5466264?s=40&v=4",
+          "name": "vava-nessa",
+          "url": "https://github.com/vava-nessa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21700150?s=40&v=4",
+          "name": "PhucTruong-ctrl",
+          "url": "https://github.com/PhucTruong-ctrl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6641858?s=40&v=4",
+          "name": "erwinh22",
+          "url": "https://github.com/erwinh22"
+        }
+      ]
+    },
+    {
+      "title": "Ylianst/MeshCentral",
+      "url": "https://github.com/Ylianst/MeshCentral",
+      "description": "A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "7,110",
+      "forks": "963",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1319013?s=40&v=4",
+          "name": "Ylianst",
+          "url": "https://github.com/Ylianst"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/765314?s=40&v=4",
+          "name": "si458",
+          "url": "https://github.com/si458"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58996467?s=40&v=4",
+          "name": "petervanv",
+          "url": "https://github.com/petervanv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29240564?s=40&v=4",
+          "name": "krayon007",
+          "url": "https://github.com/krayon007"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13395348?s=40&v=4",
+          "name": "silversword411",
+          "url": "https://github.com/silversword411"
+        }
+      ]
+    },
+    {
+      "title": "davidarroyo1234/InstagramUnfollowers",
+      "url": "https://github.com/davidarroyo1234/InstagramUnfollowers",
+      "description": "Check if people follows you back on Instagram.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "4,780",
+      "forks": "440",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29355377?s=40&v=4",
+          "name": "davidarroyo1234",
+          "url": "https://github.com/davidarroyo1234"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20019194?s=40&v=4",
+          "name": "tomleb3",
+          "url": "https://github.com/tomleb3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166744714?s=40&v=4",
+          "name": "DarksAces",
+          "url": "https://github.com/DarksAces"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1015013?s=40&v=4",
+          "name": "RuanAragao",
+          "url": "https://github.com/RuanAragao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8878055?s=40&v=4",
+          "name": "ramazansancar",
+          "url": "https://github.com/ramazansancar"
+        }
+      ]
+    }
+  ]
+}
