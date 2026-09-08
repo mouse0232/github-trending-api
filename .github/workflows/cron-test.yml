@@ -9,5 +9,7 @@ jobs:
   hello:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "cron triggered, UTC time: $(date -u)"
+      - run: 'echo "cron triggered, UTC time: $(date -u)"'
+
+
 
