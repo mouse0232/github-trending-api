@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 09 Sep 2026 12:11:06 GMT",
+  "pubDate": "Wed, 09 Sep 2026 16:56:19 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,9 +10,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,712",
-      "forks": "1,946",
-      "addStars": "656",
+      "stars": "33,701",
+      "forks": "1,984",
+      "addStars": "4,624",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Make Every Team AI Native",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,653",
-      "forks": "169",
-      "addStars": "1,083",
+      "stars": "2,821",
+      "forks": "176",
+      "addStars": "563",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/279665174?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "283,707",
-      "forks": "25,392",
-      "addStars": "452",
+      "stars": "283,875",
+      "forks": "25,407",
+      "addStars": "690",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,678",
-      "forks": "2,885",
-      "addStars": "442",
+      "stars": "22,787",
+      "forks": "2,888",
+      "addStars": "171",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
@@ -158,8 +158,8 @@
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,835",
-      "forks": "1,556",
+      "stars": "14,937",
+      "forks": "1,559",
       "addStars": "97",
       "contributors": [
         {
@@ -185,9 +185,9 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "36,000",
-      "forks": "2,264",
-      "addStars": "710",
+      "stars": "36,302",
+      "forks": "2,287",
+      "addStars": "2,286",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,563",
-      "forks": "19,923",
-      "addStars": "506",
+      "stars": "103,742",
+      "forks": "19,954",
+      "addStars": "367",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -259,8 +259,8 @@
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
       "language": "",
       "languageColor": "",
-      "stars": "17,518",
-      "forks": "3,337",
+      "stars": "17,777",
+      "forks": "3,378",
       "addStars": "910",
       "contributors": [
         {
@@ -286,9 +286,9 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,060",
-      "forks": "812",
-      "addStars": "105",
+      "stars": "6,117",
+      "forks": "818",
+      "addStars": "505",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
@@ -323,8 +323,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "29,632",
-      "forks": "2,847",
+      "stars": "29,890",
+      "forks": "2,884",
       "addStars": "612",
       "contributors": [
         {
@@ -360,9 +360,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,349",
-      "forks": "9,345",
-      "addStars": "356",
+      "stars": "53,514",
+      "forks": "9,360",
+      "addStars": "382",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
@@ -392,8 +392,8 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,447",
-      "forks": "144",
+      "stars": "1,550",
+      "forks": "147",
       "addStars": "393",
       "contributors": [
         {
@@ -429,9 +429,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "254,748",
-      "forks": "38,159",
-      "addStars": "1,427",
+      "stars": "254,930",
+      "forks": "38,193",
+      "addStars": "1,151",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
