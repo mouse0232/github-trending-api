@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 09 Sep 2026 16:56:19 GMT",
+  "pubDate": "Wed, 09 Sep 2026 21:28:09 GMT",
   "items": [
     {
       "title": "ayghri/i-have-adhd",
@@ -10,8 +10,8 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,701",
-      "forks": "1,984",
+      "stars": "34,279",
+      "forks": "2,009",
       "addStars": "4,624",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Make Every Team AI Native",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,821",
-      "forks": "176",
+      "stars": "2,904",
+      "forks": "181",
       "addStars": "563",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "283,875",
-      "forks": "25,407",
+      "stars": "283,969",
+      "forks": "25,412",
       "addStars": "690",
       "contributors": [
         {
@@ -118,11 +118,11 @@
     {
       "title": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,787",
-      "forks": "2,888",
+      "stars": "22,851",
+      "forks": "2,892",
       "addStars": "171",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,937",
-      "forks": "1,559",
+      "stars": "14,997",
+      "forks": "1,560",
       "addStars": "97",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "36,302",
-      "forks": "2,287",
+      "stars": "36,471",
+      "forks": "2,300",
       "addStars": "2,286",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,742",
-      "forks": "19,954",
+      "stars": "103,870",
+      "forks": "19,965",
       "addStars": "367",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
       "language": "",
       "languageColor": "",
-      "stars": "17,777",
-      "forks": "3,378",
+      "stars": "17,928",
+      "forks": "3,397",
       "addStars": "910",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,117",
-      "forks": "818",
+      "stars": "6,157",
+      "forks": "824",
       "addStars": "505",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "29,890",
-      "forks": "2,884",
+      "stars": "29,975",
+      "forks": "2,897",
       "addStars": "612",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,514",
-      "forks": "9,360",
+      "stars": "53,621",
+      "forks": "9,367",
       "addStars": "382",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,550",
-      "forks": "147",
+      "stars": "1,616",
+      "forks": "151",
       "addStars": "393",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "254,930",
-      "forks": "38,193",
+      "stars": "255,085",
+      "forks": "38,213",
       "addStars": "1,151",
       "contributors": [
         {

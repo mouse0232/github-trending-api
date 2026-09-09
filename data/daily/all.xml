@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 09 Sep 2026 16:56:19 GMT</pubDate>
+    <pubDate>Wed, 09 Sep 2026 21:28:09 GMT</pubDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ayghri/i-have-adhd</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>33,701</stars>
-      <forks>1,984</forks>
+      <stars>34,279</stars>
+      <forks>2,009</forks>
       <addStars>4,624</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Tencent/teamai-cli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,821</stars>
-      <forks>176</forks>
+      <stars>2,904</stars>
+      <forks>181</forks>
       <addStars>563</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>283,875</stars>
-      <forks>25,407</forks>
+      <stars>283,969</stars>
+      <forks>25,412</forks>
       <addStars>690</addStars>
       <contributors>
         <contributor>
@@ -121,12 +121,12 @@
     <item>
       <title>pascalorg/editor</title>
       <link>https://github.com/pascalorg/editor</link>
-      <description>Create and share 3D architectural projects.</description>
+      <description>Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.</description>
       <guid>https://github.com/pascalorg/editor</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,787</stars>
-      <forks>2,888</forks>
+      <stars>22,851</stars>
+      <forks>2,892</forks>
       <addStars>171</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,937</stars>
-      <forks>1,559</forks>
+      <stars>14,997</stars>
+      <forks>1,560</forks>
       <addStars>97</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>36,302</stars>
-      <forks>2,287</forks>
+      <stars>36,471</stars>
+      <forks>2,300</forks>
       <addStars>2,286</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>103,742</stars>
-      <forks>19,954</forks>
+      <stars>103,870</stars>
+      <forks>19,965</forks>
       <addStars>367</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/liquidslr/system-design-notes</guid>
       <language/>
       <languageColor/>
-      <stars>17,777</stars>
-      <forks>3,378</forks>
+      <stars>17,928</stars>
+      <forks>3,397</forks>
       <addStars>910</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/openai/plugins</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,117</stars>
-      <forks>818</forks>
+      <stars>6,157</stars>
+      <forks>824</forks>
       <addStars>505</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>29,890</stars>
-      <forks>2,884</forks>
+      <stars>29,975</stars>
+      <forks>2,897</forks>
       <addStars>612</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,514</stars>
-      <forks>9,360</forks>
+      <stars>53,621</stars>
+      <forks>9,367</forks>
       <addStars>382</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/vastsa/PI-Desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,550</stars>
-      <forks>147</forks>
+      <stars>1,616</stars>
+      <forks>151</forks>
       <addStars>393</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>254,930</stars>
-      <forks>38,193</forks>
+      <stars>255,085</stars>
+      <forks>38,213</forks>
       <addStars>1,151</addStars>
       <contributors>
         <contributor>
