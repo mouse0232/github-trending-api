@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 13 Sep 2026 16:45:02 GMT</pubDate>
+    <pubDate>Sun, 13 Sep 2026 21:13:38 GMT</pubDate>
     <item>
       <title>JustVugg/colibri</title>
       <link>https://github.com/JustVugg/colibri</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/JustVugg/colibri</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>29,260</stars>
-      <forks>3,198</forks>
-      <addStars>652</addStars>
+      <stars>29,600</stars>
+      <forks>3,226</forks>
+      <addStars>960</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13022503?s=40&amp;v=4</avatar>
@@ -49,8 +49,8 @@
       <guid>https://github.com/ever-co/ever-gauzy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,788</stars>
-      <forks>919</forks>
+      <stars>4,952</stars>
+      <forks>935</forks>
       <addStars>58</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>31,328</stars>
-      <forks>6,280</forks>
+      <stars>31,674</stars>
+      <forks>6,358</forks>
       <addStars>2,898</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/tech-leads-club/agent-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,495</stars>
-      <forks>495</forks>
+      <stars>5,585</stars>
+      <forks>499</forks>
       <addStars>215</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/melgarafael/DeskcommCRM</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,081</stars>
-      <forks>578</forks>
+      <stars>2,133</stars>
+      <forks>585</forks>
       <addStars>444</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>58,223</stars>
-      <forks>7,336</forks>
+      <stars>58,344</stars>
+      <forks>7,346</forks>
       <addStars>383</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>65,841</stars>
-      <forks>10,785</forks>
+      <stars>65,948</stars>
+      <forks>10,795</forks>
       <addStars>727</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/vxcontrol/pentagi</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>23,794</stars>
-      <forks>3,090</forks>
+      <stars>23,896</stars>
+      <forks>3,092</forks>
       <addStars>613</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/multimodal-art-projection/YuE</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,613</stars>
-      <forks>852</forks>
+      <stars>7,686</stars>
+      <forks>859</forks>
       <addStars>500</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/yuliskov/SmartTube</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>33,365</stars>
-      <forks>2,025</forks>
+      <stars>33,412</stars>
+      <forks>2,030</forks>
       <addStars>238</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/alphaXiv/OpenResearch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,902</stars>
-      <forks>139</forks>
+      <stars>1,990</stars>
+      <forks>143</forks>
       <addStars>304</addStars>
       <contributors>
         <contributor>
@@ -424,8 +424,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,031</stars>
-      <forks>3,223</forks>
+      <stars>26,479</stars>
+      <forks>3,268</forks>
       <addStars>2,546</addStars>
       <contributors>
         <contributor>
@@ -462,8 +462,8 @@
       <guid>https://github.com/SnailSploit/Claude-Red</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,961</stars>
-      <forks>577</forks>
+      <stars>4,066</stars>
+      <forks>585</forks>
       <addStars>507</addStars>
       <contributors>
         <contributor>
@@ -500,8 +500,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>23,093</stars>
-      <forks>1,707</forks>
+      <stars>23,350</stars>
+      <forks>1,723</forks>
       <addStars>438</addStars>
       <contributors>
         <contributor>
@@ -538,8 +538,8 @@
       <guid>https://github.com/jihe520/MathModelAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,302</stars>
-      <forks>406</forks>
+      <stars>5,328</stars>
+      <forks>407</forks>
       <addStars>268</addStars>
       <contributors>
         <contributor>
@@ -576,8 +576,8 @@
       <guid>https://github.com/tonhowtf/omniget</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,347</stars>
-      <forks>998</forks>
+      <stars>11,527</stars>
+      <forks>1,013</forks>
       <addStars>547</addStars>
       <contributors>
         <contributor>
@@ -614,8 +614,8 @@
       <guid>https://github.com/jiji262/douyin-downloader</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,291</stars>
-      <forks>1,746</forks>
+      <stars>11,326</stars>
+      <forks>1,748</forks>
       <addStars>473</addStars>
       <contributors>
         <contributor>
@@ -647,8 +647,8 @@
       <guid>https://github.com/Swordfish90/cool-retro-term</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>26,164</stars>
-      <forks>1,014</forks>
+      <stars>26,200</stars>
+      <forks>1,015</forks>
       <addStars>98</addStars>
       <contributors>
         <contributor>
@@ -685,8 +685,8 @@
       <guid>https://github.com/huggingface/transformers</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>165,367</stars>
-      <forks>34,547</forks>
+      <stars>165,457</stars>
+      <forks>34,553</forks>
       <addStars>102</addStars>
       <contributors>
         <contributor>
