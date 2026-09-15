@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 15 Sep 2026 12:29:31 GMT</pubDate>
+    <pubDate>Tue, 15 Sep 2026 17:23:40 GMT</pubDate>
     <item>
       <title>alibaba/open-code-review</title>
       <link>https://github.com/alibaba/open-code-review</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>27,213</stars>
-      <forks>1,947</forks>
+      <stars>27,894</stars>
+      <forks>2,014</forks>
       <addStars>2,751</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/JustVugg/colibri</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>33,063</stars>
-      <forks>3,467</forks>
+      <stars>33,393</stars>
+      <forks>3,507</forks>
       <addStars>2,035</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/ever-co/ever-gauzy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,316</stars>
-      <forks>1,006</forks>
+      <stars>6,448</stars>
+      <forks>1,014</forks>
       <addStars>632</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,226</stars>
-      <forks>3,643</forks>
+      <stars>30,590</stars>
+      <forks>3,676</forks>
       <addStars>2,081</addStars>
       <contributors>
         <contributor>
@@ -163,9 +163,9 @@
       <guid>https://github.com/Homebrew/BrewUI</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>1,048</stars>
-      <forks>21</forks>
-      <addStars>388</addStars>
+      <stars>1,206</stars>
+      <forks>25</forks>
+      <addStars>356</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2030310?s=40&amp;v=4</avatar>
@@ -201,9 +201,9 @@
       <guid>https://github.com/melgarafael/DeskcommCRM</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,604</stars>
-      <forks>651</forks>
-      <addStars>408</addStars>
+      <stars>2,697</stars>
+      <forks>667</forks>
+      <addStars>205</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/119944436?s=40&amp;v=4</avatar>
@@ -239,9 +239,9 @@
       <guid>https://github.com/alphaXiv/OpenResearch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,909</stars>
-      <forks>200</forks>
-      <addStars>568</addStars>
+      <stars>3,130</stars>
+      <forks>215</forks>
+      <addStars>593</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/79390398?s=40&amp;v=4</avatar>
@@ -277,9 +277,9 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>76,274</stars>
-      <forks>8,408</forks>
-      <addStars>700</addStars>
+      <stars>76,514</stars>
+      <forks>8,438</forks>
+      <addStars>755</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4</avatar>
@@ -315,9 +315,9 @@
       <guid>https://github.com/danny-avila/LibreChat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>43,632</stars>
-      <forks>9,009</forks>
-      <addStars>286</addStars>
+      <stars>43,707</stars>
+      <forks>9,017</forks>
+      <addStars>261</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110412045?s=40&amp;v=4</avatar>
@@ -348,9 +348,9 @@
       <guid>https://github.com/pacifio/atlas</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,464</stars>
-      <forks>274</forks>
-      <addStars>1,091</addStars>
+      <stars>4,531</stars>
+      <forks>277</forks>
+      <addStars>102</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/32670628?s=40&amp;v=4</avatar>
@@ -386,8 +386,8 @@
       <guid>https://github.com/MG1937/ASC</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,019</stars>
-      <forks>183</forks>
+      <stars>1,079</stars>
+      <forks>189</forks>
       <addStars>122</addStars>
       <contributors>
         <contributor>
@@ -424,8 +424,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>94,507</stars>
-      <forks>10,041</forks>
+      <stars>94,628</stars>
+      <forks>10,053</forks>
       <addStars>354</addStars>
       <contributors>
         <contributor>
@@ -462,9 +462,9 @@
       <guid>https://github.com/tonhowtf/omniget</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,460</stars>
-      <forks>1,078</forks>
-      <addStars>1,018</addStars>
+      <stars>12,676</stars>
+      <forks>1,092</forks>
+      <addStars>318</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58658417?s=40&amp;v=4</avatar>
@@ -500,8 +500,8 @@
       <guid>https://github.com/earendil-works/pi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>105,430</stars>
-      <forks>13,255</forks>
+      <stars>105,568</stars>
+      <forks>13,274</forks>
       <addStars>437</addStars>
       <contributors>
         <contributor>
