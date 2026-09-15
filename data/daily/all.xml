@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 15 Sep 2026 17:23:40 GMT</pubDate>
+    <pubDate>Tue, 15 Sep 2026 21:53:32 GMT</pubDate>
     <item>
       <title>alibaba/open-code-review</title>
       <link>https://github.com/alibaba/open-code-review</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>27,894</stars>
-      <forks>2,014</forks>
+      <stars>28,325</stars>
+      <forks>2,036</forks>
       <addStars>2,751</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/JustVugg/colibri</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>33,393</stars>
-      <forks>3,507</forks>
+      <stars>33,696</stars>
+      <forks>3,533</forks>
       <addStars>2,035</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/ever-co/ever-gauzy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,448</stars>
-      <forks>1,014</forks>
+      <stars>6,551</stars>
+      <forks>1,022</forks>
       <addStars>632</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,590</stars>
-      <forks>3,676</forks>
+      <stars>30,808</stars>
+      <forks>3,688</forks>
       <addStars>2,081</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/Homebrew/BrewUI</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>1,206</stars>
-      <forks>25</forks>
+      <stars>1,290</stars>
+      <forks>28</forks>
       <addStars>356</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/melgarafael/DeskcommCRM</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,697</stars>
-      <forks>667</forks>
+      <stars>2,765</stars>
+      <forks>674</forks>
       <addStars>205</addStars>
       <contributors>
         <contributor>
@@ -239,19 +239,14 @@
       <guid>https://github.com/alphaXiv/OpenResearch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,130</stars>
-      <forks>215</forks>
+      <stars>3,261</stars>
+      <forks>221</forks>
       <addStars>593</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/79390398?s=40&amp;v=4</avatar>
           <name>sox8502</name>
           <url>https://github.com/sox8502</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34905129?s=40&amp;v=4</avatar>
-          <name>rehaanahmad2013</name>
-          <url>https://github.com/rehaanahmad2013</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/135627999?s=40&amp;v=4</avatar>
@@ -262,6 +257,11 @@
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34905129?s=40&amp;v=4</avatar>
+          <name>rehaanahmad2013</name>
+          <url>https://github.com/rehaanahmad2013</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/108231307?s=40&amp;v=4</avatar>
@@ -277,8 +277,8 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>76,514</stars>
-      <forks>8,438</forks>
+      <stars>76,637</stars>
+      <forks>8,445</forks>
       <addStars>755</addStars>
       <contributors>
         <contributor>
@@ -315,8 +315,8 @@
       <guid>https://github.com/danny-avila/LibreChat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>43,707</stars>
-      <forks>9,017</forks>
+      <stars>43,765</stars>
+      <forks>9,022</forks>
       <addStars>261</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/pacifio/atlas</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,531</stars>
-      <forks>277</forks>
+      <stars>4,569</stars>
+      <forks>278</forks>
       <addStars>102</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/MG1937/ASC</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,079</stars>
-      <forks>189</forks>
+      <stars>1,111</stars>
+      <forks>191</forks>
       <addStars>122</addStars>
       <contributors>
         <contributor>
@@ -424,9 +424,9 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>94,628</stars>
-      <forks>10,053</forks>
-      <addStars>354</addStars>
+      <stars>94,706</stars>
+      <forks>10,057</forks>
+      <addStars>386</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4</avatar>
@@ -462,8 +462,8 @@
       <guid>https://github.com/tonhowtf/omniget</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,676</stars>
-      <forks>1,092</forks>
+      <stars>12,810</stars>
+      <forks>1,095</forks>
       <addStars>318</addStars>
       <contributors>
         <contributor>
@@ -500,8 +500,8 @@
       <guid>https://github.com/earendil-works/pi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>105,568</stars>
-      <forks>13,274</forks>
+      <stars>105,631</stars>
+      <forks>13,279</forks>
       <addStars>437</addStars>
       <contributors>
         <contributor>
