@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 17:22:39 GMT",
+  "pubDate": "Wed, 16 Sep 2026 21:51:04 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,160",
-      "forks": "2,227",
+      "stars": "31,595",
+      "forks": "2,249",
       "addStars": "3,215",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,371",
-      "forks": "379",
+      "stars": "6,947",
+      "forks": "410",
       "addStars": "1,249",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "34,800",
-      "forks": "3,648",
+      "stars": "34,948",
+      "forks": "3,670",
       "addStars": "1,532",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,425",
-      "forks": "257",
+      "stars": "5,530",
+      "forks": "264",
       "addStars": "1,136",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "54,205",
-      "forks": "6,779",
+      "stars": "54,316",
+      "forks": "6,785",
       "addStars": "409",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,258",
-      "forks": "1,584",
+      "stars": "13,309",
+      "forks": "1,586",
       "addStars": "444",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,212",
-      "forks": "2,918",
+      "stars": "24,265",
+      "forks": "2,921",
       "addStars": "96",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,157",
-      "forks": "1,081",
+      "stars": "7,256",
+      "forks": "1,085",
       "addStars": "771",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,714",
-      "forks": "3,207",
+      "stars": "30,808",
+      "forks": "3,208",
       "addStars": "50",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "77,559",
-      "forks": "8,572",
+      "stars": "77,705",
+      "forks": "8,589",
       "addStars": "1,059",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "145,356",
-      "forks": "23,448",
+      "stars": "145,461",
+      "forks": "23,469",
       "addStars": "155",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,501",
-      "forks": "4,808",
+      "stars": "50,568",
+      "forks": "4,812",
       "addStars": "292",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,156",
-      "forks": "263",
+      "stars": "4,331",
+      "forks": "270",
       "addStars": "1,036",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "109,515",
-      "forks": "14,004",
+      "stars": "109,650",
+      "forks": "14,026",
       "addStars": "118",
       "contributors": [
         {
@@ -503,7 +503,7 @@
       "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,469",
+      "stars": "2,518",
       "forks": "182",
       "addStars": "74",
       "contributors": [
@@ -540,8 +540,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,076",
-      "forks": "3,463",
+      "stars": "25,205",
+      "forks": "3,466",
       "addStars": "1,201",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,645",
-      "forks": "729",
+      "stars": "5,735",
+      "forks": "734",
       "addStars": "383",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,256",
-      "forks": "1,002",
+      "stars": "9,335",
+      "forks": "1,007",
       "addStars": "370",
       "contributors": [
         {
@@ -646,8 +646,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "95,241",
-      "forks": "10,096",
+      "stars": "95,360",
+      "forks": "10,107",
       "addStars": "656",
       "contributors": [
         {
@@ -683,8 +683,8 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,231",
-      "forks": "7,379",
+      "stars": "68,328",
+      "forks": "7,381",
       "addStars": "102",
       "contributors": [
         {
@@ -720,8 +720,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "259,933",
-      "forks": "38,904",
+      "stars": "260,170",
+      "forks": "38,937",
       "addStars": "1,046",
       "contributors": [
         {
