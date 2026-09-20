@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 12:03:06 GMT",
+  "pubDate": "Sun, 20 Sep 2026 16:37:15 GMT",
   "items": [
     {
       "title": "affaan-m/ECC",
@@ -10,8 +10,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "263,258",
-      "forks": "39,394",
+      "stars": "263,461",
+      "forks": "39,427",
       "addStars": "1,012",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,974",
-      "forks": "468",
+      "stars": "5,074",
+      "forks": "476",
       "addStars": "89",
       "contributors": [
         {
@@ -69,9 +69,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,409",
-      "forks": "958",
-      "addStars": "3,155",
+      "stars": "17,701",
+      "forks": "984",
+      "addStars": "2,375",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -96,9 +96,9 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "24,874",
-      "forks": "1,708",
-      "addStars": "859",
+      "stars": "25,000",
+      "forks": "1,717",
+      "addStars": "1,012",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
@@ -128,8 +128,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,193",
-      "forks": "5,235",
+      "stars": "35,260",
+      "forks": "5,242",
       "addStars": "236",
       "contributors": [
         {
@@ -165,8 +165,8 @@
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,350",
-      "forks": "3,132",
+      "stars": "45,433",
+      "forks": "3,139",
       "addStars": "32",
       "contributors": [
         {
@@ -197,9 +197,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "146,899",
-      "forks": "23,988",
-      "addStars": "483",
+      "stars": "146,987",
+      "forks": "24,022",
+      "addStars": "415",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -234,8 +234,8 @@
       "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,412",
-      "forks": "1,004",
+      "stars": "4,480",
+      "forks": "1,007",
       "addStars": "174",
       "contributors": [
         {
@@ -256,9 +256,9 @@
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "5,138",
-      "forks": "931",
-      "addStars": "196",
+      "stars": "5,239",
+      "forks": "939",
+      "addStars": "461",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14979358?s=40&v=4",
@@ -283,9 +283,9 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,442",
-      "forks": "2,115",
-      "addStars": "472",
+      "stars": "16,596",
+      "forks": "2,127",
+      "addStars": "752",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/148683640?s=40&v=4",
@@ -315,9 +315,9 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,809",
-      "forks": "1,533",
-      "addStars": "402",
+      "stars": "15,893",
+      "forks": "1,537",
+      "addStars": "382",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
@@ -347,9 +347,9 @@
       "description": "The Generative UI framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,980",
-      "forks": "905",
-      "addStars": "585",
+      "stars": "17,112",
+      "forks": "913",
+      "addStars": "332",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -379,9 +379,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "97,393",
-      "forks": "10,273",
-      "addStars": "556",
+      "stars": "97,519",
+      "forks": "10,285",
+      "addStars": "729",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
