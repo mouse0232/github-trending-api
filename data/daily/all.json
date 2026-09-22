@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 22 Sep 2026 17:26:07 GMT",
+  "pubDate": "Tue, 22 Sep 2026 21:44:54 GMT",
   "items": [
     {
       "title": "anthropics/financial-services",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,201",
-      "forks": "5,298",
+      "stars": "36,288",
+      "forks": "5,309",
       "addStars": "436",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,848",
-      "forks": "376",
+      "stars": "2,921",
+      "forks": "381",
       "addStars": "301",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,158",
-      "forks": "1,359",
+      "stars": "15,327",
+      "forks": "1,365",
       "addStars": "202",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,008",
-      "forks": "3,533",
+      "stars": "31,081",
+      "forks": "3,536",
       "addStars": "113",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,254",
-      "forks": "340",
+      "stars": "7,468",
+      "forks": "349",
       "addStars": "2,324",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,884",
-      "forks": "1,343",
+      "stars": "14,028",
+      "forks": "1,350",
       "addStars": "441",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,092",
-      "forks": "209",
+      "stars": "2,164",
+      "forks": "215",
       "addStars": "197",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,670",
-      "forks": "3,106",
+      "stars": "25,784",
+      "forks": "3,112",
       "addStars": "155",
       "contributors": [
         {
