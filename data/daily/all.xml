@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 23 Sep 2026 12:35:44 GMT</pubDate>
+    <pubDate>Wed, 23 Sep 2026 17:33:13 GMT</pubDate>
     <item>
       <title>anthropics/financial-services</title>
       <link>https://github.com/anthropics/financial-services</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,709</stars>
-      <forks>5,361</forks>
+      <stars>36,829</stars>
+      <forks>5,368</forks>
       <addStars>665</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/google/ax</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,351</stars>
-      <forks>383</forks>
+      <stars>8,730</stars>
+      <forks>405</forks>
       <addStars>1,542</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,318</stars>
-      <forks>3,556</forks>
+      <stars>31,407</stars>
+      <forks>3,566</forks>
       <addStars>393</addStars>
       <contributors>
         <contributor>
@@ -110,9 +110,9 @@
       <guid>https://github.com/BuilderIO/agent-native</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,374</stars>
-      <forks>575</forks>
-      <addStars>609</addStars>
+      <stars>6,454</stars>
+      <forks>579</forks>
+      <addStars>135</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/844291?s=40&amp;v=4</avatar>
@@ -138,8 +138,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>290,442</stars>
-      <forks>25,987</forks>
+      <stars>290,559</stars>
+      <forks>26,002</forks>
       <addStars>528</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,065</stars>
-      <forks>1,420</forks>
+      <stars>16,190</stars>
+      <forks>1,429</forks>
       <addStars>1,140</addStars>
       <contributors>
         <contributor>
@@ -214,9 +214,9 @@
       <guid>https://github.com/Open-Dev-Society/OpenStock</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,567</stars>
-      <forks>2,271</forks>
-      <addStars>832</addStars>
+      <stars>18,679</stars>
+      <forks>2,277</forks>
+      <addStars>379</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/148683640?s=40&amp;v=4</avatar>
@@ -247,8 +247,8 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,265</stars>
-      <forks>397</forks>
+      <stars>3,373</stars>
+      <forks>405</forks>
       <addStars>560</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/strands-agents/harness-sdk</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,630</stars>
-      <forks>1,190</forks>
+      <stars>7,744</stars>
+      <forks>1,194</forks>
       <addStars>96</addStars>
       <contributors>
         <contributor>
@@ -318,8 +318,8 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>49,746</stars>
-      <forks>4,592</forks>
+      <stars>49,826</stars>
+      <forks>4,596</forks>
       <addStars>41</addStars>
       <contributors>
         <contributor>
@@ -356,8 +356,8 @@
       <guid>https://github.com/superdesigndev/treg</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,494</stars>
-      <forks>230</forks>
+      <stars>2,588</stars>
+      <forks>236</forks>
       <addStars>502</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>70,084</stars>
-      <forks>4,258</forks>
+      <stars>70,200</stars>
+      <forks>4,266</forks>
       <addStars>287</addStars>
       <contributors>
         <contributor>
@@ -427,8 +427,8 @@
       <guid>https://github.com/mvt-project/mvt</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,338</stars>
-      <forks>1,371</forks>
+      <stars>14,397</stars>
+      <forks>1,378</forks>
       <addStars>546</addStars>
       <contributors>
         <contributor>
@@ -460,9 +460,9 @@
       <guid>https://github.com/DeusData/codebase-memory-mcp</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>44,314</stars>
-      <forks>3,623</forks>
-      <addStars>201</addStars>
+      <stars>44,428</stars>
+      <forks>3,629</forks>
+      <addStars>266</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81762164?s=40&amp;v=4</avatar>
@@ -493,9 +493,9 @@
       <guid>https://github.com/harry7557558/spirula-studio</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>633</stars>
-      <forks>51</forks>
-      <addStars>86</addStars>
+      <stars>685</stars>
+      <forks>52</forks>
+      <addStars>99</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/44143868?s=40&amp;v=4</avatar>
@@ -531,8 +531,8 @@
       <guid>https://github.com/browser-use/video-use</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,257</stars>
-      <forks>3,148</forks>
+      <stars>26,374</stars>
+      <forks>3,156</forks>
       <addStars>745</addStars>
       <contributors>
         <contributor>
@@ -569,9 +569,9 @@
       <guid>https://github.com/TNT-Likely/PanWatch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,377</stars>
-      <forks>287</forks>
-      <addStars>175</addStars>
+      <stars>1,445</stars>
+      <forks>291</forks>
+      <addStars>142</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9278923?s=40&amp;v=4</avatar>
