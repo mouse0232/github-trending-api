@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 26 Sep 2026 16:49:14 GMT</pubDate>
+    <pubDate>Sat, 26 Sep 2026 21:44:33 GMT</pubDate>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>86,559</stars>
-      <forks>15,360</forks>
+      <stars>87,075</stars>
+      <forks>15,411</forks>
       <addStars>2,589</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,295</stars>
-      <forks>3,409</forks>
+      <stars>32,028</stars>
+      <forks>3,562</forks>
       <addStars>2,152</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/NVIDIA/Model-Optimizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,655</stars>
-      <forks>663</forks>
+      <stars>4,715</stars>
+      <forks>666</forks>
       <addStars>354</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,064</stars>
-      <forks>1,624</forks>
+      <stars>19,159</stars>
+      <forks>1,631</forks>
       <addStars>845</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/tensorflow/tensorflow</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>200,382</stars>
-      <forks>77,558</forks>
+      <stars>200,426</stars>
+      <forks>77,592</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>58,133</stars>
-      <forks>10,091</forks>
+      <stars>58,299</stars>
+      <forks>10,113</forks>
       <addStars>828</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/openbao/openbao</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,928</stars>
-      <forks>589</forks>
+      <stars>7,974</stars>
+      <forks>591</forks>
       <addStars>360</addStars>
       <contributors>
         <contributor>
@@ -272,7 +272,7 @@
       <guid>https://github.com/block/buzz</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>34,766</stars>
+      <stars>34,804</stars>
       <forks>4,595</forks>
       <addStars>367</addStars>
       <contributors>
@@ -310,8 +310,8 @@
       <guid>https://github.com/microsoft/vscode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>193,011</stars>
-      <forks>43,483</forks>
+      <stars>193,057</stars>
+      <forks>43,524</forks>
       <addStars>78</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/zhaoxuya520/reverse-skill</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>37,865</stars>
-      <forks>5,261</forks>
+      <stars>37,956</stars>
+      <forks>5,267</forks>
       <addStars>409</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/llvm/llvm-project</guid>
       <language>LLVM</language>
       <languageColor>#185619</languageColor>
-      <stars>40,711</stars>
-      <forks>18,815</forks>
+      <stars>40,734</stars>
+      <forks>18,819</forks>
       <addStars>29</addStars>
       <contributors>
         <contributor>
@@ -424,8 +424,8 @@
       <guid>https://github.com/anthropics/claude-code-action</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,024</stars>
-      <forks>2,161</forks>
+      <stars>9,068</stars>
+      <forks>2,162</forks>
       <addStars>15</addStars>
       <contributors>
         <contributor>
@@ -457,8 +457,8 @@
       <guid>https://github.com/actions/runner-images</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>13,243</stars>
-      <forks>3,861</forks>
+      <stars>13,282</stars>
+      <forks>3,863</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -485,8 +485,8 @@
       <guid>https://github.com/mobile-next/mobile-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,190</stars>
-      <forks>633</forks>
+      <stars>7,286</stars>
+      <forks>640</forks>
       <addStars>143</addStars>
       <contributors>
         <contributor>
@@ -523,8 +523,8 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>142,514</stars>
-      <forks>33,088</forks>
+      <stars>142,601</stars>
+      <forks>33,131</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
