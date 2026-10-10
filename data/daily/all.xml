@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 10 Oct 2026 17:31:16 GMT</pubDate>
+    <pubDate>Sat, 10 Oct 2026 22:09:37 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>66,621</stars>
-      <forks>14,006</forks>
+      <stars>70,366</stars>
+      <forks>14,760</forks>
       <addStars>25,784</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/boykopovar/AnyPS5</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>25,659</stars>
-      <forks>2,133</forks>
+      <stars>26,472</stars>
+      <forks>2,214</forks>
       <addStars>5,831</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/storytold/artcraft</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>13,630</stars>
-      <forks>2,117</forks>
+      <stars>14,227</stars>
+      <forks>2,234</forks>
       <addStars>3,217</addStars>
       <contributors>
         <contributor>
@@ -121,12 +121,12 @@
     <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
-      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
+      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>48,690</stars>
-      <forks>3,074</forks>
+      <stars>48,855</stars>
+      <forks>3,089</forks>
       <addStars>1,189</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,175</stars>
-      <forks>1,882</forks>
+      <stars>26,272</stars>
+      <forks>1,891</forks>
       <addStars>178</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>284,042</stars>
-      <forks>23,787</forks>
+      <stars>284,349</stars>
+      <forks>23,802</forks>
       <addStars>1,737</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/flutter/flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>179,379</stars>
-      <forks>33,547</forks>
+      <stars>179,475</stars>
+      <forks>33,583</forks>
       <addStars>164</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/tensorflow/tensorflow</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>200,659</stars>
-      <forks>78,909</forks>
+      <stars>200,709</stars>
+      <forks>78,956</forks>
       <addStars>24</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/hugohe3/ppt-master</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,221</stars>
-      <forks>4,667</forks>
+      <stars>59,363</stars>
+      <forks>4,676</forks>
       <addStars>515</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/pytorch/pytorch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>104,084</stars>
-      <forks>31,908</forks>
+      <stars>104,125</stars>
+      <forks>31,948</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/huggingface/transformers</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>167,114</stars>
-      <forks>34,794</forks>
+      <stars>167,208</stars>
+      <forks>34,797</forks>
       <addStars>94</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,678</stars>
-      <forks>3,269</forks>
+      <stars>28,769</stars>
+      <forks>3,273</forks>
       <addStars>626</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>218,040</stars>
-      <forks>21,969</forks>
+      <stars>218,197</stars>
+      <forks>21,978</forks>
       <addStars>279</addStars>
       <contributors>
         <contributor>
