@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 11 Oct 2026 13:48:30 GMT</pubDate>
+    <pubDate>Sun, 11 Oct 2026 17:50:29 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>88,909</stars>
-      <forks>19,462</forks>
+      <stars>95,705</stars>
+      <forks>21,346</forks>
       <addStars>25,585</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/boykopovar/AnyPS5</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>28,562</stars>
-      <forks>2,427</forks>
+      <stars>29,167</stars>
+      <forks>2,505</forks>
       <addStars>3,977</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/storytold/artcraft</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,149</stars>
-      <forks>2,611</forks>
+      <stars>16,907</stars>
+      <forks>2,751</forks>
       <addStars>2,956</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>49,679</stars>
-      <forks>3,148</forks>
+      <stars>49,971</stars>
+      <forks>3,169</forks>
       <addStars>1,083</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>50,873</stars>
-      <forks>10,261</forks>
+      <stars>51,182</stars>
+      <forks>10,295</forks>
       <addStars>872</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/pytorch/pytorch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>104,299</stars>
-      <forks>32,047</forks>
+      <stars>104,378</stars>
+      <forks>32,074</forks>
       <addStars>314</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/lyogavin/airllm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>36,159</stars>
-      <forks>3,793</forks>
+      <stars>36,286</stars>
+      <forks>3,803</forks>
       <addStars>541</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/chrislgarry/Apollo-11</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>73,926</stars>
-      <forks>8,085</forks>
+      <stars>74,050</stars>
+      <forks>8,090</forks>
       <addStars>496</addStars>
       <contributors>
         <contributor>
