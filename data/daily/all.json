@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Oct 2026 16:12:04 GMT",
+  "pubDate": "Sun, 18 Oct 2026 21:13:18 GMT",
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
@@ -10,8 +10,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,046",
-      "forks": "17,174",
+      "stars": "52,758",
+      "forks": "17,291",
       "addStars": "2,213",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,424",
-      "forks": "4,517",
+      "stars": "42,589",
+      "forks": "4,525",
       "addStars": "1,187",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "216,177",
-      "forks": "28,949",
+      "stars": "216,449",
+      "forks": "28,977",
       "addStars": "1,417",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,606",
-      "forks": "1,233",
+      "stars": "12,695",
+      "forks": "1,248",
       "addStars": "351",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,364",
-      "forks": "9,026",
+      "stars": "76,443",
+      "forks": "9,036",
       "addStars": "502",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,303",
-      "forks": "741",
+      "stars": "10,407",
+      "forks": "747",
       "addStars": "513",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "96,219",
-      "forks": "6,153",
+      "stars": "96,475",
+      "forks": "6,169",
       "addStars": "1,146",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,425",
-      "forks": "4,933",
+      "stars": "54,529",
+      "forks": "4,940",
       "addStars": "582",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "74,597",
-      "forks": "8,163",
+      "stars": "75,036",
+      "forks": "8,207",
       "addStars": "2,098",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "8,657",
-      "forks": "562",
+      "stars": "8,722",
+      "forks": "567",
       "addStars": "381",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
       "language": "",
       "languageColor": "",
-      "stars": "83,862",
-      "forks": "9,774",
+      "stars": "83,973",
+      "forks": "9,779",
       "addStars": "81",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Video restoration tool",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,298",
-      "forks": "179",
+      "stars": "2,357",
+      "forks": "183",
       "addStars": "115",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "138,350",
-      "forks": "16,478",
+      "stars": "138,533",
+      "forks": "16,496",
       "addStars": "155",
       "contributors": [
         {
