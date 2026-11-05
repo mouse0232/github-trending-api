@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 05 Nov 2026 20:23:01 GMT",
+  "pubDate": "Thu, 05 Nov 2026 23:55:38 GMT",
   "items": [
     {
       "title": "NVIDIA/auto-ontology",
@@ -10,8 +10,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,066",
-      "forks": "558",
+      "stars": "7,263",
+      "forks": "574",
       "addStars": "2,707",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "314,960",
-      "forks": "26,379",
+      "stars": "315,172",
+      "forks": "26,392",
       "addStars": "2,053",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "139,855",
-      "forks": "20,686",
+      "stars": "139,927",
+      "forks": "20,692",
       "addStars": "608",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,474",
-      "forks": "2,938",
+      "stars": "17,506",
+      "forks": "2,941",
       "addStars": "242",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "97,807",
-      "forks": "10,248",
+      "stars": "97,934",
+      "forks": "10,253",
       "addStars": "1,661",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,651",
-      "forks": "1,164",
+      "stars": "16,796",
+      "forks": "1,182",
       "addStars": "2,173",
       "contributors": [
         {
@@ -197,8 +197,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,445",
-      "forks": "432",
+      "stars": "11,498",
+      "forks": "437",
       "addStars": "546",
       "contributors": [
         {
@@ -224,8 +224,8 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,333",
-      "forks": "1,632",
+      "stars": "12,367",
+      "forks": "1,633",
       "addStars": "16",
       "contributors": [
         {
@@ -256,8 +256,8 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,289",
-      "forks": "1,887",
+      "stars": "22,355",
+      "forks": "1,891",
       "addStars": "199",
       "contributors": [
         {
@@ -293,8 +293,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "45,794",
-      "forks": "3,143",
+      "stars": "45,859",
+      "forks": "3,147",
       "addStars": "181",
       "contributors": [
         {
@@ -325,8 +325,8 @@
       "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,957",
-      "forks": "264",
+      "stars": "3,035",
+      "forks": "266",
       "addStars": "674",
       "contributors": [
         {
@@ -357,8 +357,8 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,072",
-      "forks": "1,643",
+      "stars": "14,113",
+      "forks": "1,647",
       "addStars": "241",
       "contributors": [
         {
@@ -384,8 +384,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,745",
-      "forks": "6,272",
+      "stars": "55,887",
+      "forks": "6,284",
       "addStars": "214",
       "contributors": [
         {
@@ -416,8 +416,8 @@
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "30,299",
-      "forks": "3,325",
+      "stars": "30,381",
+      "forks": "3,330",
       "addStars": "784",
       "contributors": [
         {
@@ -453,8 +453,8 @@
       "description": "",
       "language": "C#",
       "languageColor": "#7355dd",
-      "stars": "7,190",
-      "forks": "258",
+      "stars": "7,251",
+      "forks": "260",
       "addStars": "977",
       "contributors": [
         {
