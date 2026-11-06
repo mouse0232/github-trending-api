@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 06 Nov 2026 19:45:20 GMT</pubDate>
+    <pubDate>Fri, 06 Nov 2026 23:36:34 GMT</pubDate>
     <item>
       <title>zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>93,413</stars>
-      <forks>11,485</forks>
+      <stars>93,598</stars>
+      <forks>11,498</forks>
       <addStars>292</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,778</stars>
-      <forks>706</forks>
+      <stars>8,968</stars>
+      <forks>721</forks>
       <addStars>2,005</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/rails/rails</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>58,960</stars>
-      <forks>23,826</forks>
+      <stars>59,021</stars>
+      <forks>23,833</forks>
       <addStars>152</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/mpv-player/mpv</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>37,832</stars>
-      <forks>3,630</forks>
+      <stars>37,870</stars>
+      <forks>3,632</forks>
       <addStars>36</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/rust-lang/rust</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>121,331</stars>
-      <forks>17,360</forks>
+      <stars>121,433</stars>
+      <forks>17,365</forks>
       <addStars>186</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/react/react</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>252,171</stars>
-      <forks>51,802</forks>
+      <stars>252,247</stars>
+      <forks>51,809</forks>
       <addStars>244</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/angular/angular</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>101,248</stars>
-      <forks>28,908</forks>
+      <stars>101,349</stars>
+      <forks>28,912</forks>
       <addStars>128</addStars>
       <contributors>
         <contributor>
@@ -277,9 +277,9 @@
       <guid>https://github.com/symfony/symfony</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>31,343</stars>
-      <forks>9,943</forks>
-      <addStars>89</addStars>
+      <stars>31,423</stars>
+      <forks>9,948</forks>
+      <addStars>239</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47313?s=40&amp;v=4</avatar>
@@ -315,8 +315,8 @@
       <guid>https://github.com/prometheus/prometheus</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>67,092</stars>
-      <forks>10,980</forks>
+      <stars>67,174</stars>
+      <forks>10,988</forks>
       <addStars>140</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,766</stars>
-      <forks>1,916</forks>
+      <stars>22,816</stars>
+      <forks>1,919</forks>
       <addStars>532</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/microsoft/vscode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>194,926</stars>
-      <forks>44,412</forks>
+      <stars>195,015</stars>
+      <forks>44,424</forks>
       <addStars>295</addStars>
       <contributors>
         <contributor>
@@ -418,48 +418,15 @@
       </contributors>
     </item>
     <item>
-      <title>lz4/lz4</title>
-      <link>https://github.com/lz4/lz4</link>
-      <description>Extremely Fast Compression algorithm</description>
-      <guid>https://github.com/lz4/lz4</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>12,616</stars>
-      <forks>1,643</forks>
-      <addStars>313</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/750081?s=40&amp;v=4</avatar>
-          <name>Cyan4973</name>
-          <url>https://github.com/Cyan4973</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15112322?s=40&amp;v=4</avatar>
-          <name>inikep</name>
-          <url>https://github.com/inikep</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/898396?s=40&amp;v=4</avatar>
-          <name>t-mat</name>
-          <url>https://github.com/t-mat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1154694?s=40&amp;v=4</avatar>
-          <name>felixhandte</name>
-          <url>https://github.com/felixhandte</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>nushell/nushell</title>
       <link>https://github.com/nushell/nushell</link>
       <description>A new type of shell</description>
       <guid>https://github.com/nushell/nushell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>40,889</stars>
-      <forks>2,338</forks>
-      <addStars>88</addStars>
+      <stars>40,976</stars>
+      <forks>2,343</forks>
+      <addStars>177</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/547158?s=40&amp;v=4</avatar>
@@ -490,8 +457,8 @@
       <guid>https://github.com/etcd-io/etcd</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>52,557</stars>
-      <forks>10,585</forks>
+      <stars>52,610</stars>
+      <forks>10,590</forks>
       <addStars>123</addStars>
       <contributors>
         <contributor>
@@ -528,8 +495,8 @@
       <guid>https://github.com/openssl/openssl</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>31,250</stars>
-      <forks>11,581</forks>
+      <stars>31,283</stars>
+      <forks>11,580</forks>
       <addStars>24</addStars>
       <contributors>
         <contributor>
@@ -566,8 +533,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>316,513</stars>
-      <forks>26,477</forks>
+      <stars>316,681</stars>
+      <forks>26,489</forks>
       <addStars>2,058</addStars>
       <contributors>
         <contributor>
@@ -594,8 +561,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>63,593</stars>
-      <forks>4,123</forks>
+      <stars>63,918</stars>
+      <forks>4,141</forks>
       <addStars>2,524</addStars>
       <contributors>
         <contributor>
@@ -622,9 +589,9 @@
       <guid>https://github.com/astral-sh/ruff</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>50,588</stars>
-      <forks>2,601</forks>
-      <addStars>107</addStars>
+      <stars>50,683</stars>
+      <forks>2,611</forks>
+      <addStars>213</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1309177?s=40&amp;v=4</avatar>
