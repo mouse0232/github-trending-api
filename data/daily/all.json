@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Nov 2026 23:36:34 GMT",
+  "pubDate": "Sat, 07 Nov 2026 06:56:19 GMT",
   "items": [
     {
       "title": "zed-industries/zed",
@@ -10,9 +10,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "93,598",
-      "forks": "11,498",
-      "addStars": "292",
+      "stars": "93,838",
+      "forks": "11,512",
+      "addStars": "306",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,968",
-      "forks": "721",
-      "addStars": "2,005",
+      "stars": "9,338",
+      "forks": "739",
+      "addStars": "2,015",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "59,021",
+      "stars": "59,059",
       "forks": "23,833",
-      "addStars": "152",
+      "addStars": "142",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "37,870",
-      "forks": "3,632",
-      "addStars": "36",
+      "stars": "37,936",
+      "forks": "3,635",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1126053?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "121,433",
-      "forks": "17,365",
-      "addStars": "186",
+      "stars": "121,527",
+      "forks": "17,369",
+      "addStars": "192",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "252,247",
-      "forks": "51,809",
-      "addStars": "244",
+      "stars": "252,308",
+      "forks": "51,832",
+      "addStars": "248",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63648?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "101,349",
-      "forks": "28,912",
-      "addStars": "128",
+      "stars": "101,423",
+      "forks": "28,914",
+      "addStars": "135",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8604205?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "The Symfony PHP framework",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "31,423",
-      "forks": "9,948",
-      "addStars": "239",
+      "stars": "31,478",
+      "forks": "9,950",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "67,174",
-      "forks": "10,988",
-      "addStars": "140",
+      "stars": "67,242",
+      "forks": "10,991",
+      "addStars": "148",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,816",
-      "forks": "1,919",
-      "addStars": "532",
+      "stars": "22,956",
+      "forks": "1,929",
+      "addStars": "534",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -375,9 +375,9 @@
       "description": "Visual Studio Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "195,015",
-      "forks": "44,424",
-      "addStars": "295",
+      "stars": "195,083",
+      "forks": "44,433",
+      "addStars": "301",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/900690?s=40&v=4",
@@ -407,14 +407,46 @@
       ]
     },
     {
+      "title": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "12,649",
+      "forks": "1,644",
+      "addStars": "315",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
+          "name": "Cyan4973",
+          "url": "https://github.com/Cyan4973"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
+          "name": "inikep",
+          "url": "https://github.com/inikep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&v=4",
+          "name": "t-mat",
+          "url": "https://github.com/t-mat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
+          "name": "felixhandte",
+          "url": "https://github.com/felixhandte"
+        }
+      ]
+    },
+    {
       "title": "nushell/nushell",
       "url": "https://github.com/nushell/nushell",
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "40,976",
-      "forks": "2,343",
-      "addStars": "177",
+      "stars": "41,022",
+      "forks": "2,344",
+      "addStars": "131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&v=4",
@@ -444,9 +476,9 @@
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,610",
+      "stars": "52,643",
       "forks": "10,590",
-      "addStars": "123",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6799218?s=40&v=4",
@@ -481,9 +513,9 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,283",
-      "forks": "11,580",
-      "addStars": "24",
+      "stars": "31,333",
+      "forks": "11,583",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&v=4",
@@ -518,9 +550,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "316,681",
-      "forks": "26,489",
-      "addStars": "2,058",
+      "stars": "316,945",
+      "forks": "26,525",
+      "addStars": "2,070",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -545,9 +577,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "63,918",
-      "forks": "4,141",
-      "addStars": "2,524",
+      "stars": "64,449",
+      "forks": "4,179",
+      "addStars": "2,548",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -572,9 +604,9 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,683",
-      "forks": "2,611",
-      "addStars": "213",
+      "stars": "50,757",
+      "forks": "2,616",
+      "addStars": "169",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
