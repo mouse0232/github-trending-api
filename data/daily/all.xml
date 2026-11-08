@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 08 Nov 2026 14:06:09 GMT</pubDate>
+    <pubDate>Sun, 08 Nov 2026 18:08:37 GMT</pubDate>
     <item>
       <title>sherlock-project/sherlock</title>
       <link>https://github.com/sherlock-project/sherlock</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>102,075</stars>
-      <forks>12,035</forks>
+      <stars>102,795</stars>
+      <forks>12,085</forks>
       <addStars>2,372</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/dsx-ai-factory/nvke</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>714</stars>
+      <stars>767</stars>
       <forks>106</forks>
       <addStars>345</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,750</stars>
-      <forks>2,483</forks>
+      <stars>17,991</stars>
+      <forks>2,512</forks>
       <addStars>1,437</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,215</stars>
-      <forks>3,265</forks>
+      <stars>19,299</stars>
+      <forks>3,272</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>47,285</stars>
-      <forks>3,238</forks>
+      <stars>47,420</stars>
+      <forks>3,249</forks>
       <addStars>812</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,257</stars>
-      <forks>1,240</forks>
+      <stars>15,981</stars>
+      <forks>1,282</forks>
       <addStars>863</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>189,207</stars>
-      <forks>22,299</forks>
+      <stars>189,382</stars>
+      <forks>22,323</forks>
       <addStars>793</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/google-deepmind/mujoco</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>16,192</stars>
-      <forks>1,941</forks>
+      <stars>16,282</stars>
+      <forks>1,947</forks>
       <addStars>26</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,892</stars>
-      <forks>393</forks>
+      <stars>5,017</stars>
+      <forks>401</forks>
       <addStars>460</addStars>
       <contributors>
         <contributor>
