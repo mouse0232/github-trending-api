@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 14:56:38 GMT",
+  "pubDate": "Wed, 11 Nov 2026 19:55:02 GMT",
   "items": [
     {
       "title": "meta/astryx",
@@ -10,8 +10,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,385",
-      "forks": "1,902",
+      "stars": "24,688",
+      "forks": "1,928",
       "addStars": "2,842",
       "contributors": [
         {
@@ -42,9 +42,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "69,908",
-      "forks": "56,780",
-      "addStars": "960",
+      "stars": "70,068",
+      "forks": "56,813",
+      "addStars": "429",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,505",
-      "forks": "132",
+      "stars": "1,637",
+      "forks": "136",
       "addStars": "133",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "language": "",
       "languageColor": "",
-      "stars": "10,529",
-      "forks": "430",
+      "stars": "10,714",
+      "forks": "437",
       "addStars": "333",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "115,645",
-      "forks": "12,129",
+      "stars": "115,800",
+      "forks": "12,147",
       "addStars": "788",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,656",
-      "forks": "3,474",
+      "stars": "49,776",
+      "forks": "3,481",
       "addStars": "712",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,617",
-      "forks": "935",
+      "stars": "12,785",
+      "forks": "947",
       "addStars": "1,079",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,047",
-      "forks": "445",
+      "stars": "7,205",
+      "forks": "448",
       "addStars": "640",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,479",
-      "forks": "917",
+      "stars": "11,605",
+      "forks": "922",
       "addStars": "20",
       "contributors": [
         {
@@ -308,9 +308,9 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "66,902",
-      "forks": "21,493",
-      "addStars": "39",
+      "stars": "66,955",
+      "forks": "21,499",
+      "addStars": "108",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&v=4",
