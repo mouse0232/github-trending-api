@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Nov 2026 20:32:21 GMT",
+  "pubDate": "Thu, 12 Nov 2026 23:56:56 GMT",
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
@@ -10,8 +10,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,702",
-      "forks": "187",
+      "stars": "2,868",
+      "forks": "194",
       "addStars": "799",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,311",
-      "forks": "972",
+      "stars": "12,394",
+      "forks": "976",
       "addStars": "663",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "95,984",
-      "forks": "10,757",
+      "stars": "96,003",
+      "forks": "10,758",
       "addStars": "107",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "1,487",
-      "forks": "138",
+      "stars": "1,519",
+      "forks": "139",
       "addStars": "300",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,788",
-      "forks": "1,024",
+      "stars": "13,885",
+      "forks": "1,037",
       "addStars": "974",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,730",
-      "forks": "3,390",
+      "stars": "29,785",
+      "forks": "3,392",
       "addStars": "151",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,907",
+      "stars": "1,927",
       "forks": "391",
       "addStars": "94",
       "contributors": [
@@ -254,8 +254,8 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "123,565",
-      "forks": "38,053",
+      "stars": "123,591",
+      "forks": "38,054",
       "addStars": "133",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "116,589",
-      "forks": "12,205",
+      "stars": "116,654",
+      "forks": "12,209",
       "addStars": "812",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,368",
-      "forks": "2,041",
+      "stars": "26,486",
+      "forks": "2,055",
       "addStars": "1,789",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,494",
-      "forks": "1,425",
+      "stars": "11,580",
+      "forks": "1,430",
       "addStars": "291",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "69,167",
-      "forks": "10,746",
+      "stars": "69,266",
+      "forks": "10,755",
       "addStars": "461",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "134,467",
-      "forks": "25,499",
+      "stars": "134,538",
+      "forks": "25,507",
       "addStars": "287",
       "contributors": [
         {
