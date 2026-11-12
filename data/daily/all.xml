@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 12 Nov 2026 01:14:38 GMT</pubDate>
+    <pubDate>Thu, 12 Nov 2026 08:04:56 GMT</pubDate>
     <item>
       <title>meta/astryx</title>
       <link>https://github.com/meta/astryx</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,018</stars>
-      <forks>1,953</forks>
+      <stars>25,612</stars>
+      <forks>1,993</forks>
       <addStars>2,776</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>70,265</stars>
-      <forks>56,852</forks>
+      <stars>70,775</stars>
+      <forks>57,014</forks>
       <addStars>278</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,763</stars>
-      <forks>141</forks>
+      <stars>2,042</stars>
+      <forks>151</forks>
       <addStars>159</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/shadcn/improve</guid>
       <language/>
       <languageColor/>
-      <stars>10,890</stars>
-      <forks>443</forks>
+      <stars>11,208</stars>
+      <forks>454</forks>
       <addStars>361</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>115,962</stars>
-      <forks>12,166</forks>
+      <stars>116,185</stars>
+      <forks>12,174</forks>
       <addStars>787</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>49,881</stars>
-      <forks>3,490</forks>
+      <stars>50,070</stars>
+      <forks>3,494</forks>
       <addStars>708</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/we-promise/sure</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>12,972</stars>
-      <forks>958</forks>
+      <stars>13,244</stars>
+      <forks>977</forks>
       <addStars>1,078</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,380</stars>
-      <forks>454</forks>
+      <stars>7,565</stars>
+      <forks>459</forks>
       <addStars>645</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/openai/codex-security</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,744</stars>
-      <forks>939</forks>
+      <stars>11,954</stars>
+      <forks>952</forks>
       <addStars>52</addStars>
       <contributors>
         <contributor>
@@ -318,8 +318,8 @@
       <guid>https://github.com/TheAlgorithms/Java</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>67,029</stars>
-      <forks>21,509</forks>
+      <stars>67,158</stars>
+      <forks>21,519</forks>
       <addStars>51</addStars>
       <contributors>
         <contributor>
