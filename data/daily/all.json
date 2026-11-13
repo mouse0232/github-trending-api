@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 15:08:35 GMT",
+  "pubDate": "Fri, 13 Nov 2026 20:09:18 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "50,288",
-      "forks": "3,734",
+      "stars": "50,479",
+      "forks": "3,747",
       "addStars": "206",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,363",
-      "forks": "249",
+      "stars": "4,644",
+      "forks": "263",
       "addStars": "1,875",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,898",
-      "forks": "1,009",
+      "stars": "13,033",
+      "forks": "1,019",
       "addStars": "754",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,345",
-      "forks": "57,233",
+      "stars": "71,496",
+      "forks": "57,263",
       "addStars": "272",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,457",
-      "forks": "1,092",
+      "stars": "14,621",
+      "forks": "1,104",
       "addStars": "944",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,311",
-      "forks": "781",
+      "stars": "10,383",
+      "forks": "782",
       "addStars": "100",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "93,678",
-      "forks": "8,711",
+      "stars": "93,787",
+      "forks": "8,718",
       "addStars": "61",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,201",
-      "forks": "4,931",
+      "stars": "37,258",
+      "forks": "4,939",
       "addStars": "95",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,952",
-      "forks": "848",
+      "stars": "4,079",
+      "forks": "857",
       "addStars": "60",
       "contributors": [
         {
@@ -323,9 +323,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,269",
-      "forks": "426",
-      "addStars": "173",
+      "stars": "9,372",
+      "forks": "428",
+      "addStars": "324",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -360,8 +360,8 @@
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,468",
-      "forks": "66",
+      "stars": "1,563",
+      "forks": "71",
       "addStars": "245",
       "contributors": [
         {
@@ -392,9 +392,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "55,281",
-      "forks": "4,608",
-      "addStars": "60",
+      "stars": "55,381",
+      "forks": "4,604",
+      "addStars": "145",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
