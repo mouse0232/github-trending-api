@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 15 Nov 2026 19:10:42 GMT</pubDate>
+    <pubDate>Sun, 15 Nov 2026 23:17:52 GMT</pubDate>
     <item>
       <title>dream-num/univer</title>
       <link>https://github.com/dream-num/univer</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,463</stars>
-      <forks>2,327</forks>
+      <stars>25,574</stars>
+      <forks>2,333</forks>
       <addStars>1,041</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/ag-ui-protocol/ag-ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,723</stars>
-      <forks>1,807</forks>
+      <stars>17,813</stars>
+      <forks>1,817</forks>
       <addStars>393</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,191</stars>
-      <forks>1,115</forks>
+      <stars>9,265</stars>
+      <forks>1,125</forks>
       <addStars>248</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,733</stars>
-      <forks>1,063</forks>
+      <stars>11,804</stars>
+      <forks>1,082</forks>
       <addStars>860</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>56,805</stars>
-      <forks>4,801</forks>
+      <stars>56,885</stars>
+      <forks>4,811</forks>
       <addStars>718</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>51,907</stars>
-      <forks>4,088</forks>
+      <stars>52,021</stars>
+      <forks>4,107</forks>
       <addStars>688</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/Tencent/LoopForge</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,355</stars>
-      <forks>261</forks>
+      <stars>1,441</stars>
+      <forks>264</forks>
       <addStars>484</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/ggml-org/ggml</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>15,859</stars>
-      <forks>2,004</forks>
+      <stars>15,893</stars>
+      <forks>2,018</forks>
       <addStars>53</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,193</stars>
-      <forks>951</forks>
+      <stars>6,379</stars>
+      <forks>966</forks>
       <addStars>221</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,967</stars>
-      <forks>580</forks>
+      <stars>7,107</stars>
+      <forks>597</forks>
       <addStars>1,220</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,378</stars>
-      <forks>1,155</forks>
+      <stars>5,501</stars>
+      <forks>1,171</forks>
       <addStars>707</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/NVIDIA/SkillEvaluator</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,512</stars>
-      <forks>211</forks>
+      <stars>1,633</stars>
+      <forks>227</forks>
       <addStars>205</addStars>
       <contributors>
         <contributor>
